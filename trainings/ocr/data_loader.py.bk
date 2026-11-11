@@ -1,0 +1,95 @@
+import torch
+from torch.utils.data import Dataset
+from PIL import Image
+import torchvision.transforms as T
+
+from torch.utils.data import DataLoader
+from torch.nn.utils.rnn import pad_sequence
+import torch.nn.functional as F
+
+
+class LabelTransformer:
+    def __init__(self, alphabet):
+        self.alphabet = alphabet
+        # 0 is reserved for CTC 'blank', so we offset letters by 1
+        self.char_to_int = {char: i + 1 for i, char in enumerate(alphabet)}
+        self.int_to_char = {i + 1: char for i, char in enumerate(alphabet)}
+        self.int_to_char[0] = ""  # Blank token
+
+    def encode(self, text):
+        return [self.char_to_int[char] for char in text]
+
+    def decode(self, tokens):
+        # Basic greedy decoding: collapse repeats and remove blanks
+        res = []
+        for i, token in enumerate(tokens):
+            if token != 0 and (i == 0 or token != tokens[i - 1]):
+                res.append(self.int_to_char[token])
+        return "".join(res)
+
+
+def collate_fn(batch):
+    images, labels, label_lengths = zip(*batch)
+    images = torch.stack(images)
+    # Pad labels with 0 (the blank token)
+    labels_padded = pad_sequence(labels, batch_first=True, padding_value=0)
+    label_lengths = torch.cat(label_lengths)
+    return images, labels_padded, label_lengths
+
+
+class GameOCRDataset(Dataset):
+    def __init__(self, labels_file, img_dir, transformer):
+        self.data = []
+        with open(labels_file, "r") as f:
+            for line in f:
+                filename, label = line.strip().split("\t")
+                self.data.append((filename, label))
+
+        self.img_dir = img_dir
+        self.transformer = transformer
+        self.transform = T.Compose(
+            [
+                T.Grayscale(),
+                T.Resize((32, 128)),  # Standard height 32, width 128
+                T.ToTensor(),
+                T.Normalize((0.5,), (0.5,)),
+            ]
+        )
+
+    def __len__(self):
+        return len(self.data)
+
+    def __getitem__(self, idx):
+        fname, label = self.data[idx]
+        img = Image.open(f"{self.img_dir}/{fname}")
+        img = self.transform(img)
+
+        encoded_label = torch.LongTensor(self.transformer.encode(label))
+        label_len = torch.IntTensor([len(encoded_label)])
+
+        return img, encoded_label, label_len
+
+
+def smart_resize_and_pad(img, target_height=32, max_width=256):
+    w, h = img.size
+    # 1. Calculate new width to maintain aspect ratio
+    new_w = int(w * (target_height / h))
+    new_w = min(new_w, max_width)  # Cap it at max_width
+
+    # 2. Resize
+    img = img.resize((new_w, target_height), Image.BILINEAR)
+
+    # 3. Convert to Tensor
+    tensor = T.ToTensor()(img)
+
+    # 4. Pad the right side with zeros until it reaches max_width
+    padding_size = max_width - new_w
+    # pad shape: (left, right, top, bottom)
+    padded_tensor = F.pad(tensor, (0, padding_size, 0, 0), value=0)
+
+    return padded_tensor
+
+
+# # Usage:
+# dataset = GameOCRDataset("training_data/labels.txt", "training_data", transformer)
+# dataloader = DataLoader(dataset, batch_size=32, shuffle=True, collate_fn=collate_fn)

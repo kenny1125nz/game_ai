@@ -1,0 +1,6 @@
+Please ensure following principles are following for all Coding task
+1  Clean Code:  least comments, small methods/functions, intuitive names
+2  Simple: keep everything as minimum as what user asked for
+3  Fail fast: do not attempt to provide fallback logic, just let the code fail. unless user requested explicitly
+4  Don't Test: do not attmpt to test the code right after coding finished, allow user to review  and leave the test to user
+

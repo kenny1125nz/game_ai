@@ -1,0 +1,8136 @@
+Demonhead
+Elite Base Item
+Defense: 101-154
+Durability: 20
+Req Strength: 102
+Req level: 55
+Quality level: 74
+Treasure class: 75
+Max sockets: 3
+
+Variants:
+ Death Mask (Exc.)
+ Mask (Nor.)
+Thresher
+Elite Base Item
+2H damage: 12-141
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+Ama, Asn, B - Normal
+Adds range: 1
+Durability: 65
+Req Strength: 152
+Req Dexterity: 118
+Req level: 53
+Quality level: 71
+Treasure class: 72
+Max sockets: 5
+
+Variants:
+ Battle Scythe (Exc.)
+ Scythe (Nor.)
+Full Plate Mail
+Normal Base Item
+Defense: 150-161
+Durability: 70
+Req Strength: 80
+Quality level: 37
+Treasure class: 39
+Max sockets: 4
+Weight: Heavy
+
+Variants:
+ Chaos Armor (Exc.)
+ Shadow Plate (Eli.)
+Thunder Maul
+Elite Base Item
+2H damage: 33-180
+Base speed: 20
+Class speed: D, S - Normal
+N, P - Slow
+Ama, Asn, B - Very Slow
+Adds range: 2
+Durability: 60
+Req Strength: 253
+Req level: 65
+Quality level: 85
+Treasure class: 87
+Max sockets: 6
+D, S - Normal
+N, P - Slow
+Ama, Asn, B - Very Slow
+
+Variants:
+ Great Maul (Nor.)
+ Martel de Fer (Exc.)
+Battle Sword
+Exceptional Base Item
+1H damage: 16-34
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 32
+Req Strength: 92
+Req Dexterity: 43
+Req level: 25
+Quality level: 40
+Treasure class: 42
+Max sockets: 4
+
+Variants:
+ Broad Sword (Nor.)
+ Conquest Sword (Eli.)
+Archon Staff
+Elite Base Item
+2H damage: 83-99
+Base speed: 10
+Class speed: S - Normal
+Adds range: 1
+Durability: 26
+Req Strength: 34
+Req level: 66
+ Magic level: 1
+Quality level: 85
+Treasure class: 87
+Max sockets: 6
+
+Variants:
+ Rune Staff (Exc.)
+ War Staff (Nor.)
+Colossus Voulge
+Elite Base Item
+2H damage: 17-165
+Base speed: 10
+Class speed: D - Fast
+N,S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 2
+Durability: 50
+Req Strength: 210
+Req Dexterity: 55
+Req level: 48
+Quality level: 64
+Treasure class: 66
+Max sockets: 4
+
+Variants:
+ Bill (Exc.)
+ Voulge (Nor.)
+Old Book
+Normal Base Item
+Defense: 2-5
+Durability: 20
+Req Strength: 12
+Req level: 3
+Quality level: 4
+Treasure class: 4
+Max sockets: 2
+Weight: Light
+Base block: 3
+Class block: War: 28%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Burnt Text (Exc.)
+ Forgotten Volume (Eli.)
+Blasphemous Grimoire
+Elite Base Item
+Defense: 103-148
+Durability: 20
+Req Strength: 106
+Req level: 65
+Quality level: 85
+Treasure class: 85
+Max sockets: 2
+Weight: Light
+Base block: 12
+Class block: War: 37%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Grimoire (Nor.)
+ Possessed Grimoire (Exc.)
+Blasphemous Compendium
+Elite Base Item
+Defense: 100-146
+Durability: 20
+Req Strength: 95
+Req level: 60
+Quality level: 81
+Treasure class: 81
+Max sockets: 2
+Weight: Light
+Base block: 10
+Class block: War: 35%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Compendium (Nor.)
+ Possessed Compendium (Exc.)
+Occult Codex
+Elite Base Item
+Defense: 98-142
+Durability: 20
+Req Strength: 91
+Req level: 50
+Quality level: 66
+Treasure class: 66
+Max sockets: 2
+Weight: Light
+Base block: 8
+Class block: War: 33%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Codex (Nor.)
+ Dark Codex (Exc.)
+Occult Tome
+Elite Base Item
+Defense: 96-141
+Durability: 20
+Req Strength: 82
+Req level: 49
+Quality level: 67
+Treasure class: 67
+Max sockets: 2
+Weight: Light
+Base block: 5
+Class block: War: 30%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Dark Tome (Exc.)
+ Tome (Nor.)
+Forgotten Volume
+Elite Base Item
+Defense: 95-139
+Durability: 20
+Req Strength: 77
+Req level: 44
+Quality level: 59
+Treasure class: 59
+Max sockets: 2
+Weight: Light
+Base block: 3
+Class block: War: 28%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Burnt Text (Exc.)
+ Old Book (Nor.)
+Possessed Grimoire
+Exceptional Base Item
+Defense: 95-139
+Durability: 20
+Req Strength: 58
+Req level: 40
+Quality level: 54
+Treasure class: 54
+Max sockets: 2
+Weight: Light
+Base block: 12
+Class block: War: 37%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Blasphemous Grimoire (Eli.)
+ Grimoire (Nor.)
+Possessed Compendium
+Exceptional Base Item
+Defense: 50-64
+Durability: 20
+Req Strength: 50
+Req level: 36
+Quality level: 49
+Treasure class: 49
+Max sockets: 2
+Weight: Light
+Base block: 10
+Class block: War: 35%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Blasphemous Compendium (Eli.)
+ Compendium (Nor.)
+Dark Codex
+Exceptional Base Item
+Defense: 44-55
+Durability: 20
+Req Strength: 47
+Req level: 33
+Quality level: 45
+Treasure class: 45
+Max sockets: 2
+Weight: Light
+Base block: 8
+Class block: War: 33%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Codex (Nor.)
+ Occult Codex (Eli.)
+Dark Tome
+Exceptional Base Item
+Defense: 41-52
+Durability: 20
+Req Strength: 41
+Req level: 29
+Quality level: 39
+Treasure class: 39
+Max sockets: 2
+Weight: Light
+Base block: 5
+Class block: War: 30%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Occult Tome (Eli.)
+ Tome (Nor.)
+Burnt Text
+Exceptional Base Item
+Defense: 38-48
+Durability: 20
+Req Strength: 38
+Req level: 24
+Quality level: 33
+Treasure class: 33
+Max sockets: 2
+Weight: Light
+Base block: 3
+Class block: War: 28%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Forgotten Volume (Eli.)
+ Old Book (Nor.)
+Grimoire
+Normal Base Item
+Defense: 15-12
+Durability: 20
+Req Strength: 25
+Req level: 18
+Quality level: 24
+Treasure class: 24
+Max sockets: 2
+Weight: Light
+Base block: 12
+Class block: War: 37%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Blasphemous Grimoire (Eli.)
+ Possessed Grimoire (Exc.)
+Compendium
+Normal Base Item
+Defense: 10–16
+Durability: 20
+Req Strength: 20
+Req level: 15
+Quality level: 20
+Treasure class: 20
+Max sockets: 2
+Weight: Light
+Base block: 10
+Class block: War: 35%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Blasphemous Compendium (Eli.)
+ Possessed Compendium (Exc.)
+Codex
+Normal Base Item
+Defense: 6-10
+Durability: 20
+Req Strength: 18
+Req level: 12
+Quality level: 16
+Treasure class: 16
+Max sockets: 2
+Weight: Light
+Base block: 8
+Class block: War: 33%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Dark Codex (Exc.)
+ Occult Codex (Eli.)
+Tome
+Normal Base Item
+Defense: 4-8
+Durability: 20
+Req Strength: 14
+Req level: 6
+Quality level: 8
+Treasure class: 8
+Max sockets: 2
+Weight: Light
+Base block: 5
+Class block: War: 30%
+
+Patch 3.0
+New in RotW
+Warlock equip only
+Variants:
+ Dark Tome (Exc.)
+ Occult Tome (Eli.)
+Executioner Sword
+Exceptional Base Item
+2H damage: 47-80
+1H damage: 24-40
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 170
+Req Dexterity: 110
+Req level: 25
+Quality level: 54
+Treasure class: 54
+Max sockets: 6
+
+Variants:
+ Colossus Blade (Eli.)
+ Great Sword (Nor.)
+Phase Blade
+Elite Base Item
+1H damage: 31-35
+Base speed: -30
+Class speed: Ama, Asn, B, D, N, P, S - Very Fast
+Adds range: 1
+Req Strength: 25
+Req Dexterity: 136
+Req level: 54
+Quality level: 73
+Treasure class: 75
+Max sockets: 6
+
+Variants:
+ Crystal Sword (Nor.)
+ Dimensional Blade (Exc.)
+Cutlass
+Exceptional Base Item
+1H damage: 8-21
+Base speed: -30
+Class speed: Ama, Asn, B, D, N, P, S - Very Fast
+Durability: 22
+Req Strength: 25
+Req Dexterity: 52
+Req level: 25
+Quality level: 43
+Treasure class: 45
+Max sockets: 2
+
+Variants:
+ Ataghan (Eli.)
+ Scimitar (Nor.)
+Monarch
+Elite Base Item
+Defense: 133-148
+Durability: 86
+Req Strength: 156
+Req level: 54
+Quality level: 72
+Treasure class: 72
+Max sockets: 4
+Weight: Light
+Base block: 22
+Class block: Pal: 52%
+Ama/Asn/Bar: 47%
+Dru/Nec/Sor: 42%
+Paladin smite dmg: 12-34
+
+Variants:
+ Dragon Shield (Exc.)
+ Kite Shield (Nor.)
+Ettin Axe
+Elite Base Item
+1H damage: 33-66
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S, - Normal
+Adds range: 1
+Durability: 24
+Req Strength: 145
+Req Dexterity: 45
+Req level: 52
+Quality level: 70
+Treasure class: 72
+Max sockets: 5
+
+Variants:
+ Double Axe (Nor.)
+ Twin Axe (Exc.)
+Ataghan
+Elite Base Item
+1H damage: 26-46
+Base speed: -20
+Class speed: Ama, Asn, B, D, N, P - Very Fast
+S - Fast
+Durability: 22
+Req Strength: 138
+Req Dexterity: 95
+Req level: 45
+Quality level: 61
+Treasure class: 63
+Max sockets: 2
+
+Variants:
+ Cutlass (Exc.)
+ Scimitar (Nor.)
+Grave Wand
+Exceptional Base Item
+1H damage: 13-29
+Base speed: [0]
+Class speed: N - Fast
+Durability: 15
+Req Strength: 25
+Req level: 25
+ Magic level: 1
+Quality level: 49
+Treasure class: 51
+Max sockets: 2
+
+Variants:
+ Grim Wand (Nor.)
+ Unearthed Wand (Eli.)
+Dimensional Blade
+Exceptional Base Item
+1H damage: 13-35
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, N - Fast
+S - Normal
+Adds range: 1
+Durability: 20
+Req Strength: 85
+Req Dexterity: 60
+Req level: 25
+Quality level: 37
+Treasure class: 39
+Max sockets: 6
+
+Variants:
+ Crystal Sword (Nor.)
+ Phase Blade (Eli.)
+Cuirass
+Exceptional Base Item
+Defense: 188-202
+Durability: 50
+Req Strength: 65
+Req level: 25
+Quality level: 47
+Treasure class: 48
+Max sockets: 3
+Weight: Light
+
+Variants:
+ Breast Plate (Nor.)
+ Great Hauberk (Eli.)
+Matriarchal Bow
+Elite Base Item
+2H damage: 20-47
+Base speed: -10
+Class speed: Ama - Very Fast
+Req Strength: 87
+Req Dexterity: 187
+Req level: 39
+Quality level: 53
+Treasure class: 54
+Max sockets: 5
+
+Amazon equip only
+Variants:
+ Ashwood Bow (Exc.)
+ Stag Bow (Nor.)
+Jared's Stone
+Normal Base Item
+1H damage: 8-18
+Base speed: 10
+Class speed: S - Normal
+Durability: 50
+Req level: 18
+ Magic level: 1
+Quality level: 24
+Treasure class: 24
+Max sockets: 3
+
+Sorceress equip only
+Variants:
+ Dimensional Shard (Eli.)
+ Swirling Crystal (Exc.)
+Clasped Orb
+Normal Base Item
+1H damage: 5-12
+Base speed: [0]
+Class speed: S - Normal
+Durability: 40
+Req level: 13
+ Magic level: 1
+Quality level: 17
+Treasure class: 18
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Sparkling Ball (Exc.)
+ Vortex Orb (Eli.)
+Sacred Globe
+Normal Base Item
+1H damage: 3-8
+Base speed: -10
+Class speed: S - Fast
+Durability: 30
+ Magic level: 1
+Quality level: 8
+Treasure class: 9
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Crystalline Globe (Exc.)
+ Eldritch Orb (Eli.)
+Smoked Sphere
+Normal Base Item
+1H damage: 4-10
+Base speed: [0]
+Class speed: S - Normal
+Durability: 35
+Req level: 8
+ Magic level: 1
+Quality level: 12
+Treasure class: 12
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Cloudy Sphere (Exc.)
+ Demon Heart (Eli.)
+Scythe
+Normal Base Item
+2H damage: 8 to 20 (14 Avg)
+Base speed: -10
+Class speed: Druid - Very Fast
+Necro, Pala, Sorc - Fast
+Amaz, Assas, Barb - Normal
+Adds range: 1
+Durability: 65
+Req Strength: 41
+Req Dexterity: 41
+Quality level: 15
+Treasure class: 15
+Max sockets: 5
+
+Variants:
+ Battle Scythe (Exc.)
+ Thresher (Eli.)
+Crown
+Normal Base Item
+Defense: 25-45
+Durability: 40
+Req Strength: 55
+Quality level: 22
+Treasure class: 30
+Max sockets: 3
+
+Variants:
+ Corona (Eli.)
+ Grand Crown (Exc.)
+Poignard
+Exceptional Base Item
+1H damage: 6-18
+Base speed: -20
+Class speed: Ama, Asn, B, D, N, S - Very Fast
+P - Fast
+Durability: 16
+Req Strength: 25
+Req level: 19
+Quality level: 31
+Treasure class: 33
+Max sockets: 1
+
+Variants:
+ Bone Knife (Eli.)
+ Dagger (Nor.)
+Rondel
+Exceptional Base Item
+1H damage: 10-26
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Durability: 20
+Req Strength: 25
+Req Dexterity: 58
+Req level: 24
+Quality level: 36
+Treasure class: 36
+Max sockets: 1
+
+Variants:
+ Dirk (Nor.)
+ Mithril Point (Eli.)
+Shako
+Elite Base Item
+Defense: 98-141
+Durability: 12
+Req Strength: 50
+Req level: 43
+Quality level: 58
+Treasure class: 60
+Max sockets: 2
+
+Variants:
+ Cap (Nor.)
+ War Hat (Exc.)
+Francisca
+Exceptional Base Item
+Throw damage: 18-33
+1H damage: 11-22
+Max quantity stack: 200
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Req Strength: 25
+Req Dexterity: 80
+Req level: 22
+Quality level: 34
+Treasure class: 36
+
+Variants:
+ Flying Axe (Eli.)
+ Throwing Axe (Nor.)
+ Data updated for 2.4
+Tabar
+Exceptional Base Item
+2H damage: 24-77
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 1
+Durability: 40
+Req Strength: 101
+Req level: 25
+Quality level: 42
+Treasure class: 42
+Max sockets: 5
+
+Variants:
+ Battle Axe (Nor.)
+ Decapitator (Eli.)
+Flamberge
+Normal Base Item
+2H damage: 13-26
+1H damage: 9-15
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 2
+Durability: 50
+Req Strength: 70
+Req Dexterity: 49
+Quality level: 27
+Treasure class: 27
+Max sockets: 5
+
+Variants:
+ Colossus Sword (Eli.)
+ Zweihander (Exc.)
+Cinquedeas
+Exceptional Base Item
+1H damage: 15-31
+Base speed: -20
+Class speed: Ama, Asn, B, D, N, S - Very Fast
+P - Fast
+Durability: 24
+Req Strength: 25
+Req Dexterity: 88
+Req level: 25
+Quality level: 42
+Treasure class: 42
+Max sockets: 3
+
+Variants:
+ Fanged Knife (Eli.)
+ Kris (Nor.)
+Dacian Falx
+Exceptional Base Item
+2H damage: 26-61
+1H damage: 13-30
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 91
+Req Dexterity: 20
+Req level: 25
+Quality level: 42
+Treasure class: 42
+Max sockets: 4
+
+Variants:
+ Claymore (Nor.)
+ Highland Blade (Eli.)
+Zweihander
+Exceptional Base Item
+2H damage: 29-54
+1H damage: 19-35
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 2
+Durability: 50
+Req Strength: 125
+Req Dexterity: 94
+Req level: 25
+Quality level: 49
+Treasure class: 51
+Max sockets: 5
+
+Variants:
+ Colossus Sword (Eli.)
+ Flamberge (Nor.)
+Sallet
+Exceptional Base Item
+Defense: 52-62
+Durability: 18
+Req Strength: 43
+Req level: 25
+Quality level: 37
+Treasure class: 39
+Max sockets: 2
+
+Variants:
+ Hydraskull (Eli.)
+ Skull Cap (Nor.)
+Falcata
+Elite Base Item
+1H damage: 31-59
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 24
+Req Strength: 150
+Req Dexterity: 88
+Req level: 42
+Quality level: 56
+Treasure class: 57
+Max sockets: 2
+
+Variants:
+ Gladius (Exc.)
+ Short Sword (Nor.)
+Lochaber Axe
+Exceptional Base Item
+2H damage: 6-58
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 2
+Durability: 50
+Req Strength: 80
+Req level: 21
+Quality level: 33
+Treasure class: 33
+Max sockets: 3
+
+Variants:
+ Bardiche (Nor.)
+ Ogre Axe (Eli.)
+Espandon
+Exceptional Base Item
+2H damage: 18-40
+1H damage: 8-26
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, N - Fast
+S - Normal
+Adds range: 2
+Durability: 44
+Req Strength: 73
+Req Dexterity: 61
+Req level: 25
+Quality level: 37
+Treasure class: 39
+Max sockets: 3
+
+Variants:
+ Legend Sword (Eli.)
+ Two-handed Sword (Nor.)
+Wire Fleece
+Elite Base Item
+Defense: 375-481
+Durability: 32
+Req Strength: 111
+Req level: 53
+Quality level: 70
+Treasure class: 72
+Max sockets: 4
+Weight: Light
+
+Variants:
+ Studded Leather (Nor.)
+ Trellised Armor (Exc.)
+Bone Shield
+Normal Base Item
+Defense: 10-30
+Durability: 40
+Req Strength: 25
+Quality level: 19
+Treasure class: 21
+Max sockets: 2
+Weight: Light
+Base block: 20
+Class block: Pal: 50%
+Ama/Asn/Bar: 45%
+Dru/Nec/Sor: 40%
+Paladin smite dmg: 3-6
+
+Variants:
+ Grim Shield (Exc.)
+ Troll Nest (Eli.)
+Fuscina
+Exceptional Base Item
+2H damage: 19-37
+Base speed: [0]
+Class speed: Ama, B - Normal
+D, N, P, S - Slow
+Asn - Very Slow
+Adds range: 3
+Durability: 35
+Req Strength: 77
+Req Dexterity: 25
+Req level: 24
+Quality level: 36
+Treasure class: 36
+Max sockets: 4
+
+Variants:
+ Stygian Pike (Eli.)
+ Trident (Nor.)
+Scutum
+Exceptional Base Item
+Defense: 53-61
+Durability: 62
+Req Strength: 71
+Req level: 25
+Quality level: 42
+Treasure class: 42
+Max sockets: 3
+Weight: Medium
+Base block: 14
+Class block: Pal: 44%
+Ama/Asn/Bar: 39%
+Dru/Nec/Sor: 34%
+Paladin smite dmg: 11-15
+
+Variants:
+ Hyperion (Eli.)
+ Large Shield (Nor.)
+Corona
+Elite Base Item
+Defense: 111-165
+Durability: 50
+Req Strength: 174
+Req level: 66
+Quality level: 84
+Treasure class: 87
+Max sockets: 3
+
+Variants:
+ Crown (Nor.)
+ Grand Crown (Exc.)
+Stiletto
+Exceptional Base Item
+1H damage: 19-36
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Durability: 24
+Req Strength: 47
+Req Dexterity: 97
+Req level: 25
+Quality level: 46
+Treasure class: 48
+Max sockets: 3
+
+Variants:
+ Blade (Nor.)
+ Legend Spike (Eli.)
+Greater Talons
+Exceptional Base Item
+1H damage: 21-35
+Base speed: -30
+Adds range: 1
+Durability: 69
+Req Strength: 79
+Req Dexterity: 79
+Req level: 37
+Quality level: 50
+Treasure class: 51
+Max sockets: 3
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Blade Talons (Nor.)
+ Runic Talons (Eli.)
+Decapitator
+Elite Base Item
+2H damage: 49-137
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 2
+Durability: 40
+Req Strength: 189
+Req Dexterity: 33
+Req level: 54
+Quality level: 73
+Treasure class: 75
+Max sockets: 5
+
+Variants:
+ Battle Axe (Nor.)
+ Tabar (Exc.)
+Ward
+Elite Base Item
+Defense: 153-170
+Durability: 100
+Req Strength: 185
+Req level: 63
+Quality level: 84
+Treasure class: 84
+Max sockets: 4
+Weight: Medium
+Base block: 24
+Class block: Pal: 54%
+Ama/Asn/Bar: 49%
+Dru/Nec/Sor: 44%
+Paladin smite dmg: 11-35
+
+Variants:
+ Ancient Shield (Exc.)
+ Gothic Shield (Nor.)
+Colossus Sword
+Elite Base Item
+2H damage: 61-121
+1H damage: 26-70
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 182
+Req Dexterity: 95
+Req level: 60
+Quality level: 80
+Treasure class: 81
+Max sockets: 5
+
+Variants:
+ Flamberge (Nor.)
+ Zweihander (Exc.)
+Legend Sword
+Elite Base Item
+2H damage: 50-94
+1H damage: 22-56
+Base speed: -15
+Class speed: Ama, Asn, B, P - Very Fast
+D, N, S - Fast
+Adds range: 2
+Durability: 44
+Req Strength: 175
+Req Dexterity: 100
+Req level: 44
+Quality level: 59
+Treasure class: 60
+Max sockets: 3
+
+Variants:
+ Espandon (Exc.)
+ Two-handed Sword (Nor.)
+Berserker Axe
+Elite Base Item
+1H damage: 24-71
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 2
+Durability: 26
+Req Strength: 138
+Req Dexterity: 59
+Req level: 64
+Quality level: 85
+Treasure class: 87
+Max sockets: 6
+
+Variants:
+ Naga (Exc.)
+ War Axe (Nor.)
+Diadem
+Elite Base Item
+Defense: 50-60
+Durability: 20
+Req level: 64
+ Magic level: 18
+Quality level: 85
+Treasure class: 87
+Max sockets: 3
+
+Variants:
+ Coronet (Nor.)
+ Circlet (Nor.)
+ Tiara (Exc.)
+Great Hauberk
+Elite Base Item
+Defense: 395-501
+Durability: 50
+Req Strength: 118
+Req level: 56
+Quality level: 75
+Treasure class: 75
+Max sockets: 4
+Weight: Light
+
+Variants:
+ Breast Plate (Nor.)
+ Cuirass (Exc.)
+Coronet
+Normal Base Item
+Defense: 30-40
+Durability: 30
+Req level: 39
+ Magic level: 8
+Quality level: 52
+Treasure class: 54
+Max sockets: 2
+
+Variants:
+ Circlet (Nor.)
+ Tiara (Exceptional)
+ Diadem (Elite)
+Circlet
+Normal Base Item
+Defense: 20-30
+Durability: 35
+Req level: 16
+ Magic level: 3
+Quality level: 24
+Treasure class: 24
+Max sockets: 2
+
+Variants:
+ Coronet (Nor.)
+ Diadem (Eli.)
+ Tiara (Exc.)
+Guardian Crown
+Elite Base Item
+Defense: 117-168
+Durability: 55
+Req Strength: 196
+Req level: 65
+Quality level: 85
+Treasure class: 87
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Avenger Guard (Nor.)
+ Slayer Guard (Exc.)
+Slayer Guard
+Exceptional Base Item
+Defense: 93-120
+Durability: 55
+Req Strength: 118
+Req level: 40
+Quality level: 54
+Treasure class: 54
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Avenger Guard (Nor.)
+ Guardian Crown (Eli.)
+Avenger Guard
+Normal Base Item
+Defense: 35-50
+Durability: 55
+Req Strength: 65
+Req level: 18
+Quality level: 24
+Treasure class: 24
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Guardian Crown (Eli.)
+ Slayer Guard (Exc.)
+Conqueror Crown
+Elite Base Item
+Defense: 114-159
+Durability: 50
+Req Strength: 174
+Req level: 60
+Quality level: 80
+Treasure class: 81
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Assault Helmet (Nor.)
+ Savage Helmet (Exc.)
+Savage Helmet
+Exceptional Base Item
+Defense: 85-98
+Durability: 50
+Req Strength: 103
+Req level: 32
+Quality level: 49
+Treasure class: 51
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Assault Helmet (Nor.)
+ Conqueror Crown (Eli.)
+Assault Helmet
+Normal Base Item
+Defense: 30-35
+Durability: 50
+Req Strength: 55
+Req level: 15
+Quality level: 20
+Treasure class: 21
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Conqueror Crown (Eli.)
+ Savage Helmet (Exc.)
+Destroyer Helm
+Elite Base Item
+Defense: 111-156
+Durability: 45
+Req Strength: 151
+Req level: 54
+Quality level: 73
+Treasure class: 75
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Horned Helm (Nor.)
+ Rage Mask (Exc.)
+Rage Mask
+Exceptional Base Item
+Defense: 78-90
+Durability: 45
+Req Strength: 88
+Req level: 29
+Quality level: 44
+Treasure class: 45
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Destroyer Helm (Eli.)
+ Horned Helm (Nor.)
+Horned Helm
+Normal Base Item
+Defense: 25-30
+Durability: 45
+Req Strength: 45
+Req level: 12
+Quality level: 16
+Treasure class: 18
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Destroyer Helm (Eli.)
+ Rage Mask (Exc.)
+Fury Visor
+Elite Base Item
+Defense: 105-150
+Durability: 35
+Req Strength: 129
+Req level: 49
+Quality level: 66
+Treasure class: 66
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Fanged Helm (Nor.)
+ Lion Helm (Exc.)
+Lion Helm
+Exceptional Base Item
+Defense: 63-75
+Durability: 35
+Req Strength: 73
+Req level: 29
+Quality level: 38
+Treasure class: 39
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Fanged Helm (Nor.)
+ Fury Visor (Eli.)
+Fanged Helm
+Normal Base Item
+Defense: 15-20
+Durability: 35
+Req Strength: 35
+Req level: 6
+Quality level: 8
+Treasure class: 9
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Fury Visor (Eli.)
+ Lion Helm (Exc.)
+Carnage Helm
+Elite Base Item
+Defense: 102-147
+Durability: 25
+Req Strength: 106
+Req level: 45
+Quality level: 60
+Treasure class: 60
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Jawbone Cap (Nor.)
+ Jawbone Visor (Exc.)
+Jawbone Visor
+Exceptional Base Item
+Defense: 55-68
+Durability: 25
+Req Strength: 58
+Req level: 25
+Quality level: 33
+Treasure class: 33
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Carnage Helm (Eli.)
+ Jawbone Cap (Nor.)
+Jawbone Cap
+Normal Base Item
+Defense: 10-15
+Durability: 25
+Req Strength: 25
+Req level: 3
+Quality level: 4
+Treasure class: 6
+Max sockets: 3
+
+Barbarian equip only
+Variants:
+ Carnage Helm (Eli.)
+ Jawbone Visor (Exc.)
+Tomb Wand
+Exceptional Base Item
+1H damage: 10-22
+Base speed: -20
+Class speed: N - Very Fast
+Durability: 15
+Req Strength: 25
+Req level: 25
+ Magic level: 1
+Quality level: 43
+Treasure class: 45
+Max sockets: 2
+
+Variants:
+ Bone Wand (Nor.)
+ Lich Wand (Eli.)
+Petrified Wand
+Exceptional Base Item
+1H damage: 8-24
+Base speed: 10
+Class speed: N - Normal
+Durability: 15
+Req Strength: 25
+Req level: 25
+ Magic level: 1
+Quality level: 38
+Treasure class: 39
+Max sockets: 2
+
+Variants:
+ Ghost Wand (Eli.)
+ Yew Wand (Nor.)
+Burnt Wand
+Exceptional Base Item
+1H damage: 8-18
+Base speed: [0]
+Class speed: N - Fast
+Durability: 15
+Req Strength: 25
+Req level: 19
+ Magic level: 1
+Quality level: 31
+Treasure class: 33
+Max sockets: 1
+
+Variants:
+ Polished Wand (Eli.)
+ Wand (Nor.)
+War Scepter
+Normal Base Item
+1H damage: 10-17
+Base speed: -10
+Adds range: 1
+Durability: 70
+Req Strength: 55
+Quality level: 21
+Treasure class: 21
+Max sockets: 5
+
+Variants:
+ Caduceus (Eli.)
+ Divine Scepter (Exc.)
+Preserved Head
+Normal Base Item
+Defense: 2-5
+Durability: 20
+Req Strength: 12
+Req level: 3
+Quality level: 4
+Treasure class: 6
+Max sockets: 2
+Weight: Light
+Base block: 3
+Class block: N: 23%
+
+Necromancer equip only
+Variants:
+ Minion Skull (Eli.)
+ Mummified Trophy (Exc.)
+Mummified Trophy
+Exceptional Base Item
+Defense: 38-48
+Durability: 20
+Req Strength: 38
+Req level: 24
+Quality level: 33
+Treasure class: 33
+Max sockets: 2
+Weight: Light
+Base block: 3
+Class block: N: 23%
+
+Necromancer equip only
+Variants:
+ Minion Skull (Eli.)
+ Preserved Head (Nor.)
+Minion Skull
+Elite Base Item
+Defense: 95-139
+Durability: 20
+Req Strength: 77
+Req level: 44
+Quality level: 59
+Treasure class: 60
+Max sockets: 2
+Weight: Light
+Base block: 3
+Class block: N: 23%
+
+Necromancer equip only
+Variants:
+ Mummified Trophy (Exc.)
+ Preserved Head (Nor.)
+Zombie Head
+Normal Base Item
+Defense: 4-8
+Durability: 20
+Req Strength: 14
+Req level: 6
+Quality level: 8
+Treasure class: 9
+Max sockets: 2
+Weight: Light
+Base block: 5
+Class block: N: 25%
+
+Necromancer equip only
+Variants:
+ Fetish Trophy (Exc.)
+ Hellspawn Skull (Eli.)
+Fetish Trophy
+Exceptional Base Item
+Defense: 41-52
+Durability: 20
+Req Strength: 41
+Req level: 29
+Quality level: 39
+Treasure class: 39
+Max sockets: 2
+Weight: Light
+Base block: 5
+Class block: N: 25%
+
+Necromancer equip only
+Variants:
+ Hellspawn Skull (Eli.)
+ Zombie Head (Nor.)
+Hellspawn Skull
+Elite Base Item
+Defense: 96-141
+Durability: 20
+Req Strength: 82
+Req level: 50
+Quality level: 67
+Treasure class: 69
+Max sockets: 2
+Weight: Light
+Base block: 5
+Class block: N: 25%
+
+Necromancer equip only
+Variants:
+ Fetish Trophy (Exc.)
+ Zombie Head (Nor.)
+Unraveller Head
+Normal Base Item
+Defense: 6-10
+Durability: 20
+Req Strength: 18
+Req level: 12
+Quality level: 16
+Treasure class: 18
+Max sockets: 2
+Weight: Light
+Base block: 8
+Class block: N: 28%
+
+Necromancer equip only
+Variants:
+ Overseer Skull (Eli.)
+ Sexton Trophy (Exc.)
+Sexton Trophy
+Exceptional Base Item
+Defense: 44-55
+Durability: 20
+Req Strength: 47
+Req level: 33
+Quality level: 45
+Treasure class: 45
+Max sockets: 2
+Weight: Light
+Base block: 8
+Class block: N: 28%
+
+Necromancer equip only
+Variants:
+ Overseer Skull (Eli.)
+ Unraveller Head (Nor.)
+Overseer Skull
+Elite Base Item
+Defense: 98-142
+Durability: 20
+Req Strength: 91
+Req level: 49
+Quality level: 66
+Treasure class: 66
+Max sockets: 2
+Weight: Light
+Base block: 8
+Class block: N: 28%
+
+Necromancer equip only
+Variants:
+ Sexton Trophy (Exc.)
+ Unraveller Head (Nor.)
+Gargoyle Head
+Normal Base Item
+Defense: 10-16
+Durability: 20
+Req Strength: 20
+Req level: 15
+Quality level: 20
+Treasure class: 21
+Max sockets: 2
+Weight: Light
+Base block: 10
+Class block: N: 30%
+
+Necromancer equip only
+Variants:
+ Cantor Trophy (Exc.)
+ Succubus Skull (Eli.)
+Cantor Trophy
+Exceptional Base Item
+Defense: 50-64
+Durability: 20
+Req Strength: 50
+Req level: 36
+Quality level: 49
+Treasure class: 51
+Max sockets: 2
+Weight: Light
+Base block: 10
+Class block: N: 30%
+
+Necromancer equip only
+Variants:
+ Gargoyle Head (Nor.)
+ Succubus Skull (Eli.)
+Succubus Skull
+Elite Base Item
+Defense: 100-146
+Durability: 20
+Req Strength: 95
+Req level: 60
+Quality level: 81
+Treasure class: 81
+Max sockets: 2
+Weight: Light
+Base block: 10
+Class block: N: 30%
+
+Necromancer equip only
+Variants:
+ Cantor Trophy (Exc.)
+ Gargoyle Head (Nor.)
+Hierophant Trophy
+Exceptional Base Item
+Defense: 58-70
+Durability: 20
+Req Strength: 58
+Req level: 40
+Quality level: 54
+Treasure class: 54
+Max sockets: 2
+Weight: Light
+Base block: 12
+Class block: N: 32%
+
+Necromancer equip only
+Variants:
+ Bloodlord Skull (Eli.)
+ Demon Head (Nor.)
+Demon Head
+Normal Base Item
+Defense: 15-20
+Durability: 20
+Req Strength: 25
+Req level: 18
+Quality level: 24
+Treasure class: 24
+Max sockets: 2
+Weight: Light
+Base block: 12
+Class block: N: 32%
+
+Necromancer equip only
+Variants:
+ Bloodlord Skull (Eli.)
+ Hierophant Trophy (Exc.)
+Bloodlord Skull
+Elite Base Item
+Defense: 103-148
+Durability: 20
+Req Strength: 106
+Req level: 65
+Quality level: 85
+Treasure class: 87
+Max sockets: 2
+Weight: Light
+Base block: 12
+Class block: N: 32%
+
+Necromancer equip only
+Variants:
+ Demon Head (Nor.)
+ Hierophant Trophy (Exc.)
+Polished Wand
+Elite Base Item
+1H damage: 18-33
+Base speed: [0]
+Class speed: N - Fast
+Durability: 22
+Req Strength: 25
+Req level: 41
+ Magic level: 1
+Quality level: 55
+Treasure class: 57
+Max sockets: 2
+
+Variants:
+ Burnt Wand (Exc.)
+ Wand (Nor.)
+Unearthed Wand
+Elite Base Item
+1H damage: 22-28
+Base speed: [0]
+Class speed: N - Fast
+Durability: 18
+Req Strength: 25
+Req level: 64
+ Magic level: 1
+Quality level: 86
+Treasure class: 87
+Max sockets: 2
+
+Variants:
+ Grave Wand (Exc.)
+ Grim Wand (Nor.)
+Lich Wand
+Elite Base Item
+1H damage: 10-31
+Base speed: -20
+Class speed: N - Very Fast
+Durability: 17
+Req Strength: 25
+Req level: 56
+ Magic level: 1
+Quality level: 75
+Treasure class: 75
+Max sockets: 2
+
+Variants:
+ Bone Wand (Nor.)
+ Tomb Wand (Exc.)
+Ghost Wand
+Elite Base Item
+1H damage: 20-40
+Base speed: 10
+Class speed: N - Normal
+Durability: 14
+Req Strength: 25
+Req level: 48
+ Magic level: 1
+Quality level: 65
+Treasure class: 66
+Max sockets: 2
+
+Variants:
+ Petrified Wand (Exc.)
+ Yew Wand (Nor.)
+Grim Wand
+Normal Base Item
+1H damage: 5-11
+Base speed: [0]
+Class speed: N - Fast
+Durability: 15
+ Magic level: 1
+Quality level: 26
+Treasure class: 27
+Max sockets: 2
+
+Variants:
+ Grave Wand (Exc.)
+ Unearthed Wand (Eli.)
+Bone Wand
+Normal Base Item
+1H damage: 3-7
+Base speed: -20
+Class speed: N - Very Fast
+Durability: 15
+ Magic level: 1
+Quality level: 18
+Treasure class: 18
+Max sockets: 2
+
+Variants:
+ Lich Wand (Eli.)
+ Tomb Wand (Exc.)
+Yew Wand
+Normal Base Item
+1H damage: 2-8
+Base speed: 10
+Class speed: N - Normal
+Durability: 15
+ Magic level: 1
+Quality level: 12
+Treasure class: 12
+Max sockets: 1
+
+Variants:
+ Ghost Wand (Eli.)
+ Petrified Wand (Exc.)
+Wand
+Normal Base Item
+1H damage: 2-4
+Base speed: [0]
+Class speed: N - Fast
+Durability: 15
+ Magic level: 1
+Quality level: 2
+Treasure class: 3
+Max sockets: 1
+
+Variants:
+ Burnt Wand (Exc.)
+ Polished Wand (Eli.)
+Scepter
+Normal Base Item
+1H damage: 6-11
+Base speed: [0]
+Durability: 50
+Req Strength: 25
+Quality level: 3
+Treasure class: 3
+Max sockets: 2
+
+Variants:
+ Mighty Scepter (Eli.)
+ Rune Scepter (Exc.)
+Grand Scepter
+Normal Base Item
+1H damage: 8-18
+Base speed: 10
+Adds range: 1
+Durability: 60
+Req Strength: 37
+Quality level: 3
+Treasure class: 15
+Max sockets: 3
+
+Variants:
+ Holy Water Sprinkler (Exc.)
+ Seraph Rod (Eli.)
+Rune Scepter
+Exceptional Base Item
+1H damage: 13-24
+Base speed: [0]
+Durability: 50
+Req Strength: 58
+Req level: 19
+Quality level: 31
+Treasure class: 33
+Max sockets: 2
+
+Variants:
+ Mighty Scepter (Eli.)
+ Scepter (Nor.)
+Holy Water Sprinkler
+Exceptional Base Item
+1H damage: 14-36
+Base speed: 10
+Adds range: 1
+Durability: 60
+Req Strength: 76
+Req level: 25
+Quality level: 40
+Treasure class: 42
+Max sockets: 3
+
+Variants:
+ Grand Scepter (Nor.)
+ Seraph Rod (Eli.)
+Divine Scepter
+Exceptional Base Item
+1H damage: 16-38
+Base speed: -10
+Adds range: 1
+Durability: 70
+Req Strength: 103
+Req level: 25
+Quality level: 45
+Treasure class: 45
+Max sockets: 5
+
+Variants:
+ Caduceus (Eli.)
+ War Scepter (Nor.)
+Mighty Scepter
+Elite Base Item
+1H damage: 40-52
+Base speed: [0]
+Durability: 50
+Req Strength: 125
+Req Dexterity: 65
+Req level: 46
+Quality level: 62
+Treasure class: 63
+Max sockets: 2
+
+Variants:
+ Rune Scepter (Exc.)
+ Scepter (Nor.)
+Seraph Rod
+Elite Base Item
+1H damage: 45-54
+Base speed: 10
+Adds range: 1
+Durability: 60
+Req Strength: 108
+Req Dexterity: 69
+Req level: 57
+Quality level: 76
+Treasure class: 78
+Max sockets: 3
+
+Variants:
+ Grand Scepter (Nor.)
+ Holy Water Sprinkler (Exc.)
+Caduceus
+Elite Base Item
+1H damage: 37-43
+Base speed: -10
+Adds range: 1
+Durability: 70
+Req Strength: 97
+Req Dexterity: 70
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 5
+
+Variants:
+ Divine Scepter (Exc.)
+ War Scepter (Nor.)
+Fascia
+Exceptional Base Item
+1H damage: 8-37
+Base speed: 10
+Adds range: 1
+Durability: 64
+Req Strength: 69
+Req Dexterity: 69
+Req level: 27
+Quality level: 36
+Treasure class: 36
+Max sockets: 2
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Hatchet Hands (Nor.)
+ War Fist (Eli.)
+Wrist Spike
+Exceptional Base Item
+1H damage: 13-27
+Base speed: -10
+Adds range: 1
+Durability: 56
+Req Strength: 66
+Req Dexterity: 66
+Req level: 24
+Quality level: 32
+Treasure class: 33
+Max sockets: 2
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Wrist Blade (Nor.)
+ Wrist Sword (Eli.)
+Quhab
+Exceptional Base Item
+1H damage: 11-24
+Base speed: [0]
+Adds range: 1
+Durability: 48
+Req Strength: 57
+Req Dexterity: 57
+Req level: 21
+Quality level: 28
+Treasure class: 30
+Max sockets: 3
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Katar (Nor.)
+ Suwayyah (Eli.)
+Scissors Katar
+Normal Base Item
+1H damage: 9-17
+Base speed: -10
+Adds range: 1
+Durability: 68
+Req Strength: 55
+Req Dexterity: 55
+Quality level: 24
+Treasure class: 24
+Max sockets: 3
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Scissors Quhab (Exc.)
+ Scissors Suwayyah (Eli.)
+Blade Talons
+Normal Base Item
+1H damage: 10-14
+Base speed: -20
+Adds range: 1
+Durability: 69
+Req Strength: 50
+Req Dexterity: 50
+Quality level: 24
+Treasure class: 21
+Max sockets: 3
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Greater Talons (Exc.)
+ Runic Talons (Eli.)
+Claws
+Normal Base Item
+1H damage: 8-15
+Base speed: -10
+Adds range: 1
+Durability: 64
+Req Strength: 46
+Req Dexterity: 46
+Quality level: 18
+Treasure class: 18
+Max sockets: 3
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Feral Claws (Eli.)
+ Greater Claws (Exc.)
+Cestus
+Normal Base Item
+1H damage: 7-15
+Base speed: [0]
+Adds range: 1
+Durability: 72
+Req Strength: 42
+Req Dexterity: 42
+Quality level: 15
+Treasure class: 15
+Max sockets: 2
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Battle Cestus (Eli.)
+ Hand Scythe (Exc.)
+Hatchet Hands
+Normal Base Item
+1H damage: 2-15
+Base speed: 10
+Adds range: 1
+Durability: 56
+Req Strength: 37
+Req Dexterity: 37
+Quality level: 12
+Treasure class: 12
+Max sockets: 2
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Fascia (Exc.)
+ War Fist (Eli.)
+Wrist Blade
+Normal Base Item
+1H damage: 5-9
+Base speed: [0]
+Adds range: 1
+Durability: 52
+Req Strength: 33
+Req Dexterity: 33
+Quality level: 9
+Treasure class: 9
+Max sockets: 2
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Wrist Spike (Exc.)
+ Wrist Sword (Eli.)
+Katar
+Normal Base Item
+1H damage: 4-7
+Base speed: -10
+Adds range: 1
+Durability: 48
+Req Strength: 20
+Req Dexterity: 20
+Quality level: 1
+Treasure class: 3
+Max sockets: 2
++ to Assassin skills: No
+
+Assassin equip only
+Variants:
+ Quhab (Exc.)
+ Suwayyah (Eli.)
+Ogre Maul
+Elite Base Item
+2H damage: 77-106
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 1
+Durability: 60
+Req Strength: 225
+Req level: 51
+Quality level: 69
+Treasure class: 69
+Max sockets: 6
+
+Variants:
+ Maul (Nor.)
+ War Club (Exc.)
+Bec-De-Corbin
+Exceptional Base Item
+2H damage: 13-85
+Base speed: [0]
+Class speed: D, S - Fast
+Asn, B, N, P - Normal
+Ama - Slow
+Adds range: 4
+Durability: 55
+Req Strength: 133
+Req Dexterity: 91
+Req level: 25
+Quality level: 51
+Treasure class: 51
+Max sockets: 6
+
+Variants:
+ Great Poleaxe (Eli.)
+ Halberd (Nor.)
+Giant Thresher
+Elite Base Item
+2H damage: 40-114
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+Ama, Asn, B - Normal
+Adds range: 4
+Durability: 55
+Req Strength: 188
+Req Dexterity: 140
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 6
+
+Variants:
+ Grim Scythe (Exc.)
+ War Scythe (Nor.)
+Martel de Fer
+Exceptional Base Item
+2H damage: 61-99
+Base speed: 20
+Class speed: D, S - Normal
+N, P - Slow
+Ama, Asn, B - Very Slow
+Adds range: 2
+Durability: 60
+Req Strength: 169
+Req level: 25
+Quality level: 53
+Treasure class: 54
+Max sockets: 6
+
+Variants:
+ Great Maul (Nor.)
+ Thunder Maul (Eli.)
+Bill
+Exceptional Base Item
+2H damage: 14-53
+Base speed: [0]
+Class speed: D, S - Fast
+Asn, B, N, P - Normal
+Ama - Slow
+Adds range: 2
+Durability: 50
+Req Strength: 95
+Req level: 25
+Quality level: 37
+Treasure class: 39
+Max sockets: 4
+
+Variants:
+ Colossus Voulge (Eli.)
+ Voulge (Nor.)
+Battle Scythe
+Exceptional Base Item
+2H damage: 18-45
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+Ama, Asn, B - Normal
+Adds range: 1
+Durability: 65
+Req Strength: 82
+Req Dexterity: 82
+Req level: 25
+Quality level: 40
+Treasure class: 42
+Max sockets: 5
+
+Variants:
+ Scythe (Nor.)
+ Thresher (Eli.)
+Hawk Helm
+Normal Base Item
+Defense: 4-15
+Durability: 20
+Req Strength: 20
+Req level: 6
+Quality level: 8
+Treasure class: 9
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Griffon Headdress (Exc.)
+ Sun Spirit (Eli.)
+Double Axe
+Normal Base Item
+1H damage: 5-13
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S, - Normal
+Adds range: 1
+Durability: 24
+Req Strength: 43
+Quality level: 13
+Treasure class: 15
+Max sockets: 5
+
+Variants:
+ Ettin Axe (Eli.)
+ Twin Axe (Exc.)
+Great Helm
+Normal Base Item
+Defense: 30-35
+Durability: 40
+Req Strength: 63
+Quality level: 23
+Treasure class: 24
+Max sockets: 3
+
+Variants:
+ Spired Helm (Eli.)
+ Winged Helm (Exc.)
+War Spike
+Elite Base Item
+1H damage: 30-48
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S, - Fast
+Adds range: 1
+Durability: 26
+Req Strength: 133
+Req Dexterity: 54
+Req level: 59
+Quality level: 79
+Treasure class: 81
+Max sockets: 6
+
+Variants:
+ Crowbill (Exc.)
+ Military Pick (Nor.)
+Cryptic Sword
+Elite Base Item
+1H damage: 5-77
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 1
+Durability: 44
+Req Strength: 99
+Req Dexterity: 109
+Req level: 61
+Quality level: 82
+Treasure class: 84
+Max sockets: 4
+
+Variants:
+ Long Sword (Nor.)
+ Rune Sword (Exc.)
+Sacred Rondache
+Elite Base Item
+Defense: 138-164
+Durability: 68
+Req Strength: 109
+Req level: 52
+Quality level: 70
+Treasure class: 72
+Max sockets: 4
+Weight: Light
+Base block: 28
+Class block: P: 58%
+Paladin smite dmg: 35-58
+
+Paladin equip only
+Variants:
+ Akaran Rondache (Exc.)
+ Rondache (Nor.)
+Chaos Armor
+Exceptional Base Item
+Defense: 315-342
+Durability: 70
+Req Strength: 140
+Req level: 25
+Quality level: 61
+Treasure class: 63
+Max sockets: 4
+Weight: Heavy
+
+Variants:
+ Full Plate Mail (Nor.)
+ Shadow Plate (Eli.)
+Hyperion
+Elite Base Item
+Defense: 119-135
+Durability: 82
+Req Strength: 127
+Req level: 48
+Quality level: 64
+Treasure class: 66
+Max sockets: 3
+Weight: Medium
+Base block: 24
+Class block: Pal: 54%
+Ama/Asn/Bar: 49%
+Dru/Nec/Sor: 44%
+Paladin smite dmg: 14-32
+
+Variants:
+ Large Shield (Nor.)
+ Scutum (Exc.)
+Scourge
+Elite Base Item
+1H damage: 3-80
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 2
+Durability: 65
+Req Strength: 125
+Req Dexterity: 77
+Req level: 57
+Quality level: 76
+Treasure class: 78
+Max sockets: 5
+
+Variants:
+ Flail (Nor.)
+ Knout (Exc.)
+Sacred Targe
+Elite Base Item
+Defense: 126-158
+Durability: 45
+Req Strength: 86
+Req level: 47
+Quality level: 63
+Treasure class: 63
+Max sockets: 4
+Weight: Light
+Base block: 30
+Class block: P: 60%
+Paladin smite dmg: 22-70
+
+Paladin equip only
+Variants:
+ Akaran Targe (Exc.)
+ Targe (Nor.)
+Pavise
+Exceptional Base Item
+Defense: 68-78
+Durability: 72
+Req Strength: 133
+Req level: 25
+Quality level: 50
+Treasure class: 51
+Max sockets: 3
+Weight: Heavy
+Base block: 24
+Class block: Pal: 54%
+Ama/Asn/Bar: 49%
+Dru/Nec/Sor: 44%
+Paladin smite dmg: 10-17
+
+Variants:
+ Aegis (Eli.)
+ Tower Shield (Nor.)
+Stygian Pike
+Elite Base Item
+2H damage: 29-144
+Base speed: [0]
+Class speed: Ama, B - Normal
+D, N, P, S - Slow
+Asn - Very Slow
+Adds range: 3
+Durability: 35
+Req Strength: 168
+Req Dexterity: 97
+Req level: 49
+Quality level: 66
+Treasure class: 66
+Max sockets: 4
+
+Variants:
+ Fuscina (Exc.)
+ Trident (Nor.)
+Tiara
+Exceptional Base Item
+Defense: 40-50
+Durability: 25
+Req level: 52
+ Magic level: 13
+Quality level: 70
+Treasure class: 72
+Max sockets: 3
+
+Variants:
+ Coronet (Nor.)
+ Circlet (Nor.)
+ Diadem (Eli.)
+Leather Armor
+Normal Base Item
+Defense: 14-17
+Durability: 24
+Req Strength: 15
+Quality level: 3
+Treasure class: 3
+Max sockets: 2
+Weight: Light
+
+Variants:
+ Serpentskin Armor (Exc.)
+ Wyrmhide (Eli.)
+Sacred Armor
+Elite Base Item
+Defense: 487-600
+Durability: 60
+Req Strength: 232
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Ancient Armor (Nor.)
+ Ornate Plate (Exc.)
+Archon Plate
+Elite Base Item
+Defense: 410-524
+Durability: 60
+Req Strength: 103
+Req level: 63
+Quality level: 84
+Treasure class: 84
+Max sockets: 4
+Weight: Light
+
+Variants:
+ Light Plate (Nor.)
+ Mage Plate (Exc.)
+Ghost Spear
+Elite Base Item
+2H damage: 18-155
+Base speed: [0]
+Class speed: Ama, B - Normal
+D, N, P, S - Slow
+Asn - Very Slow
+Adds range: 4
+Durability: 28
+Req Strength: 122
+Req Dexterity: 163
+Req level: 62
+Quality level: 83
+Treasure class: 84
+Max sockets: 6
+
+Variants:
+ Spetum (Nor.)
+ Yari (Exc.)
+War Pike
+Elite Base Item
+2H damage: 33-178
+Base speed: 20
+Class speed: Ama - Slow
+Asn, B, D, N, P, S - Very Slow
+Adds range: 4
+Durability: 25
+Req Strength: 165
+Req Dexterity: 106
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 6
+
+Variants:
+ Lance (Exc.)
+ Pike (Nor.)
+Matriarchal Spear
+Elite Base Item
+2H damage: 65-95
+Base speed: [0]
+Class speed: Ama - Normal
+Adds range: 4
+Durability: 28
+Req Strength: 114
+Req Dexterity: 142
+Req level: 45
+Quality level: 61
+Treasure class: 63
+Max sockets: 6
+
+Amazon equip only
+Variants:
+ Ceremonial Spear (Exc.)
+ Maiden Spear (Nor.)
+Sharkskin Belt
+Exceptional Base Item
+Defense: 31-36
+Durability: 14
+Req Strength: 20
+Req level: 25
+Quality level: 39
+Treasure class: 39
+Belt boxes: 16
+
+Variants:
+ Light Belt (Nor.)
+ Vampirefang Belt (Eli.)
+Mancatcher
+Elite Base Item
+2H damage: 42-92
+Base speed: -20
+Class speed: Ama, B, D, P, S - Fast
+Asn, N - Normal
+Adds range: 4
+Durability: 28
+Req Strength: 132
+Req Dexterity: 134
+Req level: 55
+Quality level: 74
+Treasure class: 75
+Max sockets: 5
+
+Variants:
+ Brandistock (Nor.)
+ War Fork (Exc.)
+Royal Shield
+Exceptional Base Item
+Defense: 156-181
+Durability: 60
+Req Strength: 114
+Req level: 41
+Quality level: 55
+Treasure class: 57
+Max sockets: 4
+Weight: Light
+Base block: 25
+Class block: P: 55%
+Paladin smite dmg: 24-32
+
+Paladin equip only
+Variants:
+ Crown Shield (Nor.)
+ Vortex Shield (Eli.)
+Matriarchal Pike
+Elite Base Item
+2H damage: 37-153
+Base speed: 20
+Class speed: Ama - Normal
+Adds range: 4
+Durability: 25
+Req Strength: 132
+Req Dexterity: 149
+Req level: 60
+Quality level: 81
+Treasure class: 81
+Max sockets: 6
+
+Amazon equip only
+Variants:
+ Ceremonial Pike (Exc.)
+ Maiden Pike (Nor.)
+Crystal Sword
+Normal Base Item
+1H damage: 5-15
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, N - Fast
+S - Normal
+Adds range: 1
+Durability: 20
+Req Strength: 43
+Quality level: 11
+Treasure class: 12
+Max sockets: 6
+
+Variants:
+ Dimensional Blade (Exc.)
+ Phase Blade (Eli.)
+Matriarchal Javelin
+Elite Base Item
+Throw damage: 35-66
+1H damage: 30-54
+Max quantity stack: 120
+Base speed: -10
+Class speed: Ama - Very Fast
+Adds range: 2
+Req Strength: 107
+Req Dexterity: 151
+Req level: 48
+Quality level: 65
+Treasure class: 66
+
+Amazon equip only
+Variants:
+ Ceremonial Javelin (Exc.)
+ Maiden Javelin (Nor.)
+ Data updated for 2.4
+Ceremonial Javelin
+Exceptional Base Item
+Throw damage: 18-54
+1H damage: 18-35
+Max quantity stack: 120
+Base speed: -10
+Class speed: Ama - Very Fast
+Adds range: 2
+Req Strength: 25
+Req Dexterity: 109
+Req level: 26
+Quality level: 35
+Treasure class: 36
+
+Amazon equip only
+Variants:
+ Maiden Javelin (Nor.)
+ Matriarchal Javelin (Eli.)
+ Data updated for 2.4
+Maiden Javelin
+Normal Base Item
+Throw damage: 6-22
+1H damage: 8-14
+Max quantity stack: 120
+Base speed: -10
+Class speed: Ama - Very Fast
+Adds range: 2
+Req Strength: 33
+Req Dexterity: 47
+Req level: 17
+Quality level: 23
+Treasure class: 24
+
+Amazon equip only
+Variants:
+ Ceremonial Javelin (Exc.)
+ Matriarchal Javelin (Eli.)
+ Data updated for 2.4
+Gauntlets
+Normal Base Item
+Defense: 12-15
+Durability: 24
+Req Strength: 60
+Quality level: 27
+Treasure class: 27
+
+Variants:
+ Ogre Gauntlets (Eli.)
+ War Gauntlets (Exc.)
+Javelin
+Normal Base Item
+Throw damage: 6-14
+1H damage: 1-5
+Max quantity stack: 90
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Adds range: 2
+Quality level: 1
+Treasure class: 3
+
+Variants:
+ Hyperion Javelin (Eli.)
+ War Javelin (Exc.)
+ Data updated for 2.4
+Flail
+Normal Base Item
+1H damage: 1-24
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 2
+Durability: 30
+Req Strength: 41
+Req Dexterity: 35
+Quality level: 19
+Treasure class: 21
+Max sockets: 5
+
+Variants:
+ Knout (Exc.)
+ Scourge (Eli.)
+Crusader Gauntlets
+Elite Base Item
+Defense: 59-68
+Durability: 18
+Req Strength: 151
+Req level: 57
+Quality level: 76
+Treasure class: 78
+
+Variants:
+ Battle Gauntlets (Exc.)
+ Light Gauntlets (Nor.)
+Vortex Shield
+Elite Base Item
+Defense: 182-225
+Durability: 90
+Req Strength: 148
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 4
+Weight: Light
+Base block: 19
+Class block: P: 49%
+Paladin smite dmg: 5-87
+
+Paladin equip only
+Variants:
+ Crown Shield (Nor.)
+ Royal Shield (Exc.)
+Crown Shield
+Normal Base Item
+Defense: 30-40
+Durability: 60
+Req Strength: 65
+Req level: 18
+Quality level: 24
+Treasure class: 24
+Max sockets: 4
+Weight: Light
+Base block: 25
+Class block: P: 55%
+Paladin smite dmg: 4-12
+
+Paladin equip only
+Variants:
+ Royal Shield (Exc.)
+ Vortex Shield (Eli.)
+Zakarum Shield
+Elite Base Item
+Defense: 169-193
+Durability: 65
+Req Strength: 142
+Req level: 61
+Quality level: 82
+Treasure class: 84
+Max sockets: 4
+Weight: Light
+Base block: 22
+Class block: P: 52%
+Paladin smite dmg: 46
+
+Paladin equip only
+Variants:
+ Aerin Shield (Nor.)
+ Gilded Shield (Exc.)
+Gilded Shield
+Exceptional Base Item
+Defense: 144-168
+Durability: 50
+Req Strength: 89
+Req level: 38
+Quality level: 51
+Treasure class: 51
+Max sockets: 4
+Weight: Light
+Base block: 22
+Class block: P: 52%
+Paladin smite dmg: 20-28
+
+Paladin equip only
+Variants:
+ Aerin Shield (Nor.)
+ Zakarum Shield (Eli.)
+Aerin Shield
+Normal Base Item
+Defense: 26-36
+Durability: 50
+Req Strength: 50
+Req level: 15
+Quality level: 20
+Treasure class: 21
+Max sockets: 4
+Weight: Light
+Base block: 22
+Class block: P: 52%
+Paladin smite dmg: 4-10
+
+Paladin equip only
+Variants:
+ Gilded Shield (Exc.)
+ Zakarum Shield (Eli.)
+Kurast Shield
+Elite Base Item
+Defense: 154-172
+Durability: 55
+Req Strength: 124
+Req level: 55
+Quality level: 74
+Treasure class: 75
+Max sockets: 4
+Weight: Light
+Base block: 25
+Class block: P: 55%
+Paladin smite dmg: 10-82
+
+Paladin equip only
+Variants:
+ Heraldic Shield (Nor.)
+ Protector Shield (Exc.)
+Protector Shield
+Exceptional Base Item
+Defense: 129-153
+Durability: 40
+Req Strength: 69
+Req level: 34
+Quality level: 46
+Treasure class: 48
+Max sockets: 4
+Weight: Light
+Base block: 20
+Class block: P: 50%
+Paladin smite dmg: 18-24
+
+Paladin equip only
+Variants:
+ Heraldic Shield (Nor.)
+ Kurast Shield (Eli.)
+Heraldic Shield
+Normal Base Item
+Defense: 16-26
+Durability: 40
+Req Strength: 40
+Req level: 12
+Quality level: 16
+Treasure class: 18
+Max sockets: 4
+Weight: Light
+Base block: 20
+Class block: P: 50%
+Paladin smite dmg: 3-9
+
+Paladin equip only
+Variants:
+ Kurast Shield (Eli.)
+ Protector Shield (Exc.)
+Akaran Rondache
+Exceptional Base Item
+Defense: 113-137
+Durability: 30
+Req Strength: 59
+Req level: 30
+Quality level: 40
+Treasure class: 42
+Max sockets: 4
+Weight: Light
+Base block: 15
+Class block: P: 45%
+Paladin smite dmg: 15-20
+
+Paladin equip only
+Variants:
+ Rondache (Nor.)
+ Sacred Rondache (Eli.)
+Rondache
+Normal Base Item
+Defense: 10-18
+Durability: 30
+Req Strength: 26
+Req level: 6
+Quality level: 8
+Treasure class: 9
+Max sockets: 4
+Weight: Light
+Base block: 15
+Class block: P: 45%
+Paladin smite dmg: 2-8
+
+Paladin equip only
+Variants:
+ Akaran Rondache (Exc.)
+ Sacred Rondache (Eli.)
+Targe
+Normal Base Item
+Defense: 8-12
+Durability: 20
+Req Strength: 16
+Req level: 3
+Quality level: 4
+Treasure class: 6
+Max sockets: 4
+Weight: Light
+Base block: 10
+Class block: P: 40%
+Paladin smite dmg: 2-6
+
+Paladin equip only
+Variants:
+ Akaran Targe (Exc.)
+ Sacred Targe (Eli.)
+Akaran Targe
+Exceptional Base Item
+Defense: 101-125
+Durability: 20
+Req Strength: 44
+Req level: 26
+Quality level: 35
+Treasure class: 36
+Max sockets: 4
+Weight: Light
+Base block: 10
+Class block: P: 40%
+Paladin smite dmg: 12-16
+
+Paladin equip only
+Variants:
+ Sacred Targe (Eli.)
+ Targe (Nor.)
+Suwayyah
+Elite Base Item
+1H damage: 39-52
+Base speed: [0]
+Adds range: 1
+Durability: 48
+Req Strength: 99
+Req Dexterity: 99
+Req level: 44
+Quality level: 59
+Treasure class: 60
+Max sockets: 3
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Katar (Nor.)
+ Quhab (Exc.)
+Wrist Sword
+Elite Base Item
+1H damage: 34-45
+Base speed: -10
+Adds range: 1
+Durability: 56
+Req Strength: 105
+Req Dexterity: 105
+Req level: 46
+Quality level: 62
+Treasure class: 63
+Max sockets: 3
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Wrist Blade (Nor.)
+ Wrist Spike (Exc.)
+War Fist
+Elite Base Item
+1H damage: 44-53
+Base speed: 10
+Adds range: 1
+Durability: 64
+Req Strength: 108
+Req Dexterity: 108
+Req level: 51
+Quality level: 68
+Treasure class: 69
+Max sockets: 2
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Fascia (Exc.)
+ Hatchet Hands (Nor.)
+Battle Cestus
+Elite Base Item
+1H damage: 36-42
+Base speed: -10
+Adds range: 1
+Durability: 72
+Req Strength: 110
+Req Dexterity: 110
+Req level: 54
+Quality level: 73
+Treasure class: 75
+Max sockets: 2
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Cestus (Nor.)
+ Hand Scythe (Exc.)
+Feral Claws
+Elite Base Item
+1H damage: 22-53
+Base speed: -20
+Adds range: 1
+Durability: 52
+Req Strength: 113
+Req Dexterity: 113
+Req level: 58
+Quality level: 78
+Treasure class: 78
+Max sockets: 3
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Claws (Nor.)
+ Greater Claws (Exc.)
+Runic Talons
+Elite Base Item
+1H damage: 24-44
+Base speed: -30
+Adds range: 1
+Durability: 69
+Req Strength: 115
+Req Dexterity: 115
+Req level: 60
+Quality level: 81
+Treasure class: 81
+Max sockets: 3
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Blade Talons (Nor.)
+ Greater Talons (Exc.)
+Scissors Suwayyah
+Elite Base Item
+1H damage: 40-51
+Base speed: [0]
+Adds range: 1
+Durability: 68
+Req Strength: 118
+Req Dexterity: 118
+Req level: 64
+Quality level: 85
+Treasure class: 87
+Max sockets: 3
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Scissors Katar (Nor.)
+ Scissors Quhab (Exc.)
+Hand Scythe
+Exceptional Base Item
+1H damage: 16-37
+Base speed: -10
+Adds range: 1
+Durability: 72
+Req Strength: 73
+Req Dexterity: 73
+Req level: 30
+Quality level: 41
+Treasure class: 42
+Max sockets: 2
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Battle Cestus (Eli.)
+ Cestus (Nor.)
+Greater Claws
+Exceptional Base Item
+1H damage: 18-37
+Base speed: -20
+Adds range: 1
+Durability: 52
+Req Strength: 76
+Req Dexterity: 76
+Req level: 33
+Quality level: 45
+Treasure class: 45
+Max sockets: 3
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Claws (Nor.)
+ Feral Claws (Eli.)
+Scissors Quhab
+Exceptional Base Item
+1H damage: 19-40
+Base speed: [0]
+Adds range: 1
+Durability: 68
+Req Strength: 82
+Req Dexterity: 82
+Req level: 40
+Quality level: 54
+Treasure class: 54
+Max sockets: 3
++ to Assassin skills: Yes
+
+Assassin equip only
+Variants:
+ Scissors Katar (Nor.)
+ Scissors Suwayyah (Eli.)
+Wolf Head
+Normal Base Item
+Defense: 8-11
+Durability: 20
+Req Strength: 16
+Req level: 3
+Quality level: 4
+Treasure class: 6
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Alpha Helm (Exc.)
+ Blood Spirit (Eli.)
+Alpha Helm
+Exceptional Base Item
+Defense: 52-62
+Durability: 20
+Req Strength: 44
+Req level: 26
+Quality level: 35
+Treasure class: 36
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Blood Spirit (Eli.)
+ Wolf Head (Nor.)
+Blood Spirit
+Elite Base Item
+Defense: 101-145
+Durability: 20
+Req Strength: 86
+Req level: 46
+Quality level: 62
+Treasure class: 63
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Alpha Helm (Exc.)
+ Wolf Head (Nor.)
+Griffon Headdress
+Exceptional Base Item
+Defense: 46-68
+Durability: 20
+Req Strength: 50
+Req level: 30
+Quality level: 40
+Treasure class: 42
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Hawk Helm (Nor.)
+ Sun Spirit (Eli.)
+Sun Spirit
+Elite Base Item
+Defense: 98-147
+Durability: 20
+Req Strength: 95
+Req level: 51
+Quality level: 69
+Treasure class: 69
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Griffon Headdress (Exc.)
+ Hawk Helm (Nor.)
+Antlers
+Normal Base Item
+Defense: 18-24
+Durability: 20
+Req Strength: 24
+Req level: 12
+Quality level: 16
+Treasure class: 18
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Earth Spirit (Eli.)
+ Hunter's Guise (Exc.)
+Hunter's Guise
+Exceptional Base Item
+Defense: 67-81
+Durability: 20
+Req Strength: 56
+Req level: 29
+Quality level: 46
+Treasure class: 48
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Antlers (Nor.)
+ Earth Spirit (Eli.)
+Earth Spirit
+Elite Base Item
+Defense: 107-152
+Durability: 20
+Req Strength: 104
+Req level: 57
+Quality level: 76
+Treasure class: 78
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Antlers (Nor.)
+ Hunter's Guise (Exc.)
+Falcon Mask
+Normal Base Item
+Defense: 12-28
+Durability: 20
+Req Strength: 28
+Req level: 15
+Quality level: 20
+Treasure class: 21
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Sacred Feathers (Exc.)
+ Sky Spirit (Eli.)
+Sacred Feathers
+Exceptional Base Item
+Defense: 58-87
+Durability: 20
+Req Strength: 62
+Req level: 32
+Quality level: 50
+Treasure class: 51
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Falcon Mask (Nor.)
+ Sky Spirit (Eli.)
+Sky Spirit
+Elite Base Item
+Defense: 103-155
+Durability: 20
+Req Strength: 113
+Req level: 62
+Quality level: 83
+Treasure class: 84
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Falcon Mask (Nor.)
+ Sacred Feathers (Exc.)
+Spirit Mask
+Normal Base Item
+Defense: 22-35
+Durability: 20
+Req Strength: 30
+Req level: 18
+Quality level: 24
+Treasure class: 24
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Dream Spirit (Eli.)
+ Totemic Mask (Exc.)
+Totemic Mask
+Exceptional Base Item
+Defense: 73-98
+Durability: 20
+Req Strength: 65
+Req level: 41
+Quality level: 55
+Treasure class: 57
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Dream Spirit (Eli.)
+ Spirit Mask (Nor.)
+Dream Spirit
+Elite Base Item
+Defense: 109-159
+Durability: 20
+Req Strength: 118
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 3
+
+Druid equip only
+Variants:
+ Spirit Mask (Nor.)
+ Totemic Mask (Exc.)
+Mesh Belt
+Exceptional Base Item
+Defense: 35-40
+Durability: 16
+Req Strength: 58
+Req level: 25
+Quality level: 43
+Treasure class: 45
+Belt boxes: 16
+
+Variants:
+ Belt (Nor.)
+ Mithril Coil (Eli.)
+Demonhide Sash
+Exceptional Base Item
+Defense: 29-34
+Durability: 12
+Req Strength: 20
+Req level: 24
+Quality level: 36
+Treasure class: 36
+Belt boxes: 16
+
+Variants:
+ Sash (Nor.)
+ Spiderweb Sash (Eli.)
+Plated Belt
+Normal Base Item
+Defense: 8-11
+Durability: 24
+Req Strength: 60
+Quality level: 27
+Treasure class: 27
+Belt boxes: 16
+
+Variants:
+ Colossus Girdle (Eli.)
+ War Belt (Exc.)
+Dusk Shroud
+Elite Base Item
+Defense: 361-467
+Durability: 20
+Req Strength: 77
+Req level: 49
+Quality level: 65
+Treasure class: 66
+Max sockets: 4
+Weight: Light
+
+Variants:
+ Ghost Armor (Exc.)
+ Quilted Armor (Nor.)
+Kraken Shell
+Elite Base Item
+Defense: 417-523
+Durability: 48
+Req Strength: 174
+Req level: 61
+Quality level: 81
+Treasure class: 81
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Field Plate (Nor.)
+ Sharktooth Armor (Exc.)
+Brandistock
+Normal Base Item
+2H damage: 7-17
+Base speed: -20
+Class speed: Ama, B, D, P, S - Fast
+Asn, N - Normal
+Adds range: 4
+Durability: 28
+Req Strength: 40
+Req Dexterity: 50
+Quality level: 16
+Treasure class: 18
+Max sockets: 5
+
+Variants:
+ Mancatcher (Eli.)
+ War Fork (Exc.)
+War Fork
+Exceptional Base Item
+2H damage: 16-40
+Base speed: -20
+Class speed: Ama, B, D, P, S - Fast
+Asn, N - Normal
+Adds range: 4
+Durability: 28
+Req Strength: 80
+Req Dexterity: 95
+Req level: 25
+Quality level: 41
+Treasure class: 42
+Max sockets: 5
+
+Variants:
+ Brandistock (Nor.)
+ Mancatcher (Eli.)
+Belt
+Normal Base Item
+Defense: 5
+Durability: 16
+Req Strength: 25
+Quality level: 12
+Treasure class: 12
+Belt boxes: 12
+
+Variants:
+ Mesh Belt (Exc.)
+ Mithril Coil (Eli.)
+Buckler
+Normal Base Item
+Defense: 4-6
+Durability: 12
+Req Strength: 12
+Quality level: 1
+Treasure class: 3
+Max sockets: 1
+Weight: Light
+Base block: [0]
+Class block: Pal: 30%
+Ama/Asn/Bar: 25%
+Dru/Nec/Sor: 20%
+Paladin smite dmg: 1-3
+
+Variants:
+ Defender (Exc.)
+ Heater (Eli.)
+Mage Plate
+Exceptional Base Item
+Defense: 225-261
+Durability: 60
+Req Strength: 55
+Req level: 25
+Quality level: 60
+Treasure class: 60
+Max sockets: 3
+Weight: Light
+
+Variants:
+ Archon Plate (Eli.)
+ Light Plate (Nor.)
+Glowing Orb
+Exceptional Base Item
+1H damage: 8-21
+Base speed: -10
+Class speed: S - Fast
+Durability: 20
+Req level: 24
+ Magic level: 1
+Quality level: 32
+Treasure class: 33
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Eagle Orb (Nor.)
+ Heavenly Stone (Eli.)
+Crystalline Globe
+Exceptional Base Item
+1H damage: 10-26
+Base speed: -10
+Class speed: S - Fast
+Durability: 30
+Req level: 27
+ Magic level: 1
+Quality level: 37
+Treasure class: 39
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Eldritch Orb (Eli.)
+ Sacred Globe (Nor.)
+Eagle Orb
+Normal Base Item
+1H damage: 2-5
+Base speed: -10
+Class speed: S - Fast
+Durability: 20
+ Magic level: 1
+Quality level: 1
+Treasure class: 3
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Glowing Orb (Exc.)
+ Heavenly Stone (Eli.)
+Cloudy Sphere
+Exceptional Base Item
+1H damage: 11-29
+Base speed: [0]
+Class speed: S - Normal
+Durability: 35
+Req level: 30
+ Magic level: 1
+Quality level: 41
+Treasure class: 42
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Demon Heart (Eli.)
+ Smoked Sphere (Nor.)
+Swirling Crystal
+Exceptional Base Item
+1H damage: 18-42
+Base speed: 10
+Class speed: S - Normal
+Durability: 50
+Req level: 37
+ Magic level: 1
+Quality level: 50
+Treasure class: 51
+Max sockets: 3
+
+Sorceress equip only
+Variants:
+ Dimensional Shard (Eli.)
+ Jared's Stone (Nor.)
+Heavenly Stone
+Elite Base Item
+1H damage: 21-46
+Base speed: -10
+Class speed: S - Fast
+Durability: 20
+Req level: 44
+ Magic level: 1
+Quality level: 59
+Treasure class: 60
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Eagle Orb (Nor.)
+ Glowing Orb (Exc.)
+Eldritch Orb
+Elite Base Item
+1H damage: 18-50
+Base speed: -10
+Class speed: S - Fast
+Durability: 30
+Req level: 50
+ Magic level: 1
+Quality level: 67
+Treasure class: 69
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Crystalline Globe (Exc.)
+ Sacred Globe (Nor.)
+Demon Heart
+Elite Base Item
+1H damage: 23-55
+Base speed: [0]
+Class speed: S - Normal
+Durability: 35
+Req level: 56
+ Magic level: 1
+Quality level: 75
+Treasure class: 75
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Cloudy Sphere (Exc.)
+ Smoked Sphere (Nor.)
+Vortex Orb
+Elite Base Item
+1H damage: 12-66
+Base speed: [0]
+Class speed: S - Normal
+Durability: 40
+Req level: 63
+ Magic level: 1
+Quality level: 84
+Treasure class: 84
+Max sockets: 2
+
+Sorceress equip only
+Variants:
+ Clasped Orb (Nor.)
+ Sparkling Ball (Exc.)
+Dimensional Shard
+Elite Base Item
+1H damage: 30-53
+Base speed: 10
+Class speed: S - Normal
+Durability: 50
+Req level: 66
+ Magic level: 1
+Quality level: 85
+Treasure class: 87
+Max sockets: 3
+
+Sorceress equip only
+Variants:
+ Jared's Stone (Nor.)
+ Swirling Crystal (Exc.)
+Sparkling Ball
+Exceptional Base Item
+1H damage: 13-32
+Base speed: [0]
+Class speed: S - Normal
+Durability: 40
+Req level: 34
+ Magic level: 1
+Quality level: 46
+Treasure class: 48
+Max sockets: 2
+
+Variants:
+ Clasped Orb (Nor.)
+ Vortex Orb (Eli.)
+Throwing Knife
+Normal Base Item
+Throw damage: 4-9
+1H damage: 2-3
+Max quantity stack: 240
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Req Dexterity: 21
+Quality level: 2
+Treasure class: 3
+
+Variants:
+ Battle Dart (Exc.)
+ Flying Knife (Eli.)
+ Data updated for 2.4
+Dagger
+Normal Base Item
+1H damage: 1-4
+Base speed: -20
+Class speed: Ama, Asn, B, D, N, S - Very Fast
+P - Fast
+Durability: 16
+Quality level: 3
+Treasure class: 3
+Max sockets: 1
+
+Variants:
+ Bone Knife (Eli.)
+ Poignard (Exc.)
+Crossbow
+Normal Base Item
+2H damage: 9-16
+Base speed: [0]
+Class speed: D, N, S - Normal
+Ama, Asn, B, P - Slow
+Req Strength: 40
+Req Dexterity: 33
+Quality level: 15
+Treasure class: 15
+Max sockets: 4
+
+Variants:
+ Gorgon Crossbow (Eli.)
+ Siege Crossbow (Exc.)
+Shadow Bow
+Elite Base Item
+2H damage: 15-59
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 52
+Req Dexterity: 188
+Req level: 47
+Quality level: 63
+Treasure class: 63
+Max sockets: 5
+
+Variants:
+ Cedar Bow (Exc.)
+ Long Bow (Nor.)
+Spetum
+Normal Base Item
+2H damage: 15-23
+Base speed: [0]
+Class speed: Ama, B - Normal
+D, N, P, S - Slow
+Asn - Very Slow
+Adds range: 4
+Durability: 28
+Req Strength: 54
+Req Dexterity: 35
+Quality level: 20
+Treasure class: 21
+Max sockets: 6
+
+Variants:
+ Ghost Spear (Eli.)
+ Yari (Exc.)
+Boots
+Normal Base Item
+Defense: 2-3
+Durability: 12
+Quality level: 3
+Treasure class: 3
+Assassin kick dmg: 3-8
+
+Variants:
+ Demonhide Boots (Exc.)
+ Wyrmhide Boots (Eli.)
+Winged Axe
+Elite Base Item
+Throw damage: 7-60
+1H damage: 11-56
+Max quantity stack: 270
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Req Strength: 96
+Req Dexterity: 122
+Req level: 60
+Quality level: 80
+Treasure class: 81
+
+Variants:
+ Balanced Axe (Nor.)
+ Hurlbat (Exc.)
+ Data updated for 2.4
+Flying Axe
+Elite Base Item
+Throw damage: 15-66
+1H damage: 17-65
+Max quantity stack: 270
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Req Strength: 88
+Req Dexterity: 108
+Req level: 42
+Quality level: 56
+Treasure class: 57
+
+Variants:
+ Francisca (Exc.)
+ Throwing Axe (Nor.)
+ Data updated for 2.4
+Winged Knife
+Elite Base Item
+Throw damage: 23-39
+1H damage: 27-35
+Max quantity stack: 300
+Base speed: -20
+Class speed: Ama, Asn B, D, N, S - Very Fast
+P - Fast
+Req Strength: 45
+Req Dexterity: 142
+Req level: 57
+Quality level: 77
+Treasure class: 78
+
+Variants:
+ Balanced Knife (Nor.)
+ War Dart (Exc.)
+ Data updated for 2.4
+Flying Knife
+Elite Base Item
+Throw damage: 23-54
+1H damage: 23-54
+Max quantity stack: 300
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Req Strength: 48
+Req Dexterity: 141
+Req level: 48
+Quality level: 64
+Treasure class: 66
+
+Variants:
+ Battle Dart (Exc.)
+ Throwing Knife (Nor.)
+ Data updated for 2.4
+Hurlbat
+Exceptional Base Item
+Throw damage: 24-34
+1H damage: 13-27
+Max quantity stack: 200
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Req Strength: 25
+Req Dexterity: 106
+Req level: 25
+Quality level: 41
+Treasure class: 42
+
+Variants:
+ Balanced Axe (Nor.)
+ Winged Axe (Eli.)
+ Data updated for 2.4
+War Dart
+Exceptional Base Item
+Throw damage: 14-27
+1H damage: 6-24
+Max quantity stack: 240
+Base speed: -20
+Class speed: Ama, Asn B, D, N, S - Very Fast
+P - Fast
+Req Strength: 25
+Req Dexterity: 97
+Req level: 25
+Quality level: 39
+Treasure class: 39
+
+Variants:
+ Balanced Knife (Nor.)
+ Winged Knife (Eli.)
+ Data updated for 2.4
+Battle Dart
+Exceptional Base Item
+Throw damage: 11-24
+1H damage: 8-16
+Max quantity stack: 240
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Req Strength: 25
+Req Dexterity: 52
+Req level: 19
+Quality level: 31
+Treasure class: 33
+
+Variants:
+ Flying Knife (Eli.)
+ Throwing Knife (Nor.)
+ Data updated for 2.4
+Balanced Axe
+Normal Base Item
+Throw damage: 12-15
+1H damage: 5-10
+Max quantity stack: 200
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Req Dexterity: 57
+Quality level: 16
+Treasure class: 18
+
+Variants:
+ Hurlbat (Exc.)
+ Winged Axe (Eli.)
+ Data updated for 2.4
+Throwing Axe
+Normal Base Item
+Throw damage: 8-12
+1H damage: 4-7
+Max quantity stack: 200
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Req Dexterity: 40
+Quality level: 7
+Treasure class: 9
+
+Variants:
+ Flying Axe (Eli.)
+ Francisca (Exc.)
+ Data updated for 2.4
+Balanced Knife
+Normal Base Item
+Throw damage: 6-11
+1H damage: 1-8
+Max quantity stack: 240
+Base speed: -20
+Class speed: Ama, Asn B, D, N, S - Very Fast
+P - Fast
+Req Dexterity: 51
+Quality level: 13
+Treasure class: 15
+
+Variants:
+ War Dart (Exc.)
+ Winged Knife (Eli.)
+ Data updated for 2.4
+Winged Harpoon
+Elite Base Item
+Throw damage: 11-77
+1H damage: 27-35
+Max quantity stack: 120
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Adds range: 2
+Req Strength: 76
+Req Dexterity: 145
+Req level: 65
+Quality level: 85
+Treasure class: 87
+
+Variants:
+ Harpoon (Exc.)
+ Throwing Spear (Nor.)
+ Data updated for 2.4
+Ghost Glaive
+Elite Base Item
+Throw damage: 30-85
+1H damage: 19-60
+Max quantity stack: 120
+Base speed: 20
+Class speed: Ama, Asn - Normal
+B, D, N, P, S - Slow
+Adds range: 2
+Req Strength: 89
+Req Dexterity: 137
+Req level: 59
+Quality level: 79
+Treasure class: 81
+
+Variants:
+ Glaive (Nor.)
+ Spiculum (Exc.)
+ Data updated for 2.4
+Balrog Spear
+Elite Base Item
+Throw damage: 40-62
+1H damage: 33-63
+Max quantity stack: 120
+Base speed: 10
+Class speed: Ama, Asn - Fast
+B, D, N, P, S - Normal
+Adds range: 2
+Req Strength: 127
+Req Dexterity: 95
+Req level: 53
+Quality level: 71
+Treasure class: 72
+
+Variants:
+ Short Spear (Nor.)
+ Simbilan (Exc.)
+ Data updated for 2.4
+Stygian Pilum
+Elite Base Item
+Throw damage: 21-75
+1H damage: 14-64
+Max quantity stack: 140
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Adds range: 2
+Req Strength: 118
+Req Dexterity: 112
+Req level: 46
+Quality level: 62
+Treasure class: 63
+
+Variants:
+ Great Pilum (Exc.)
+ Pilum (Nor.)
+ Data updated for 2.4
+Hyperion Javelin
+Elite Base Item
+Throw damage: 28-55
+1H damage: 21-57
+Max quantity stack: 150
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Adds range: 2
+Req Strength: 98
+Req Dexterity: 123
+Req level: 40
+Quality level: 54
+Treasure class: 54
+
+Variants:
+ Javelin (Nor.)
+ War Javelin (Exc.)
+ Data updated for 2.4
+Harpoon
+Exceptional Base Item
+Throw damage: 18-54
+1H damage: 13-35
+Max quantity stack: 120
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Adds range: 2
+Req Strength: 25
+Req Dexterity: 118
+Req level: 25
+Quality level: 51
+Treasure class: 51
+
+Variants:
+ Throwing Spear (Nor.)
+ Winged Harpoon (Eli.)
+ Data updated for 2.4
+Spiculum
+Exceptional Base Item
+Throw damage: 32-60
+1H damage: 13-38
+Max quantity stack: 30
+Base speed: 20
+Class speed: Ama, Asn - Normal
+B, D, N, P, S - Slow
+Adds range: 2
+Req Strength: 98
+Req Dexterity: 73
+Req level: 25
+Quality level: 46
+Treasure class: 48
+
+Variants:
+ Ghost Glaive (Eli.)
+ Glaive (Nor.)
+ Data updated for 2.4
+Simbilan
+Exceptional Base Item
+Throw damage: 27-50
+1H damage: 8-32
+Max quantity stack: 60
+Base speed: 10
+Class speed: Ama, Asn - Fast
+B, D, N, P, S - Normal
+Adds range: 2
+Req Strength: 80
+Req Dexterity: 80
+Req level: 25
+Quality level: 40
+Treasure class: 42
+
+Variants:
+ Balrog Spear (Eli.)
+ Short Spear (Nor.)
+ Data updated for 2.4
+Great Pilum
+Exceptional Base Item
+Throw damage: 16-42
+1H damage: 11-26
+Max quantity stack: 75
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Adds range: 2
+Req Strength: 25
+Req Dexterity: 88
+Req level: 25
+Quality level: 37
+Treasure class: 39
+
+Variants:
+ Pilum (Nor.)
+ Stygian Pilum (Eli.)
+ Data updated for 2.4
+War Javelin
+Exceptional Base Item
+Throw damage: 14-32
+1H damage: 6-19
+Max quantity stack: 90
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Adds range: 2
+Req Strength: 25
+Req Dexterity: 25
+Req level: 18
+Quality level: 30
+Treasure class: 30
+
+Variants:
+ Hyperion Javelin (Eli.)
+ Javelin (Nor.)
+ Data updated for 2.4
+Throwing Spear
+Normal Base Item
+Throw damage: 12-30
+1H damage: 5-15
+Max quantity stack: 120
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Adds range: 2
+Req Dexterity: 65
+Quality level: 29
+Treasure class: 30
+
+Variants:
+ Harpoon (Exc.)
+ Winged Harpoon (Eli.)
+ Data updated for 2.4
+Glaive
+Normal Base Item
+Throw damage: 16-22
+1H damage: 5-17
+Max quantity stack: 60
+Base speed: 20
+Class speed: Ama, Asn - Normal
+B, D, N, P, S - Slow
+Adds range: 2
+Req Strength: 52
+Req Dexterity: 35
+Quality level: 23
+Treasure class: 24
+
+Variants:
+ Ghost Glaive (Eli.)
+ Spiculum (Exc.)
+ Data updated for 2.4
+Short Spear
+Normal Base Item
+Throw damage: 10-22
+1H damage: 2-13
+Max quantity stack: 60
+Base speed: 10
+Class speed: Ama, Asn - Fast
+B, D, N, P, S - Normal
+Adds range: 2
+Req Strength: 40
+Req Dexterity: 40
+Quality level: 15
+Treasure class: 15
+
+Variants:
+ Balrog Spear (Eli.)
+ Simbilan (Exc.)
+ Data updated for 2.4
+Pilum
+Normal Base Item
+Throw damage: 7-20
+1H damage: 4-9
+Max quantity stack: 75
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Adds range: 2
+Req Dexterity: 45
+Quality level: 10
+Treasure class: 12
+
+Variants:
+ Great Pilum (Exc.)
+ Stygian Pilum (Eli.)
+ Data updated for 2.4
+Ceremonial Pike
+Exceptional Base Item
+2H damage: 42-101
+Base speed: 20
+Class speed: Ama - Normal
+Adds range: 4
+Durability: 25
+Req Strength: 115
+Req Dexterity: 98
+Req level: 38
+Quality level: 51
+Treasure class: 51
+Max sockets: 6
+
+Amazon equip only
+Variants:
+ Maiden Pike (Nor.)
+ Matriarchal Pike (Eli.)
+Ceremonial Spear
+Exceptional Base Item
+2H damage: 34-51
+Base speed: [0]
+Class speed: Ama - Normal
+Adds range: 4
+Durability: 28
+Req Strength: 101
+Req Dexterity: 80
+Req level: 32
+Quality level: 43
+Treasure class: 45
+Max sockets: 6
+
+Amazon equip only
+Variants:
+ Maiden Spear (Nor.)
+ Matriarchal Spear (Eli.)
+Maiden Pike
+Normal Base Item
+2H damage: 23-55
+Base speed: 10
+Class speed: Ama - Normal
+Adds range: 4
+Durability: 25
+Req Strength: 63
+Req Dexterity: 52
+Req level: 20
+Quality level: 27
+Treasure class: 27
+Max sockets: 6
+
+Amazon equip only
+Variants:
+ Ceremonial Pike (Exc.)
+ Matriarchal Pike (Eli.)
+Maiden Spear
+Normal Base Item
+2H damage: 18-24
+Base speed: [0]
+Class speed: Ama - Normal
+Adds range: 4
+Durability: 28
+Req Strength: 54
+Req Dexterity: 70
+Req level: 14
+Quality level: 18
+Treasure class: 18
+Max sockets: 6
+
+Amazon equip only
+Variants:
+ Ceremonial Spear (Exc.)
+ Matriarchal Spear (Eli.)
+Hyperion Spear
+Elite Base Item
+2H damage: 35-119
+Base speed: -10
+Class speed: Ama - Fast
+B, D, N, P, S - Normal
+Asn - Slow
+Adds range: 3
+Durability: 30
+Req Strength: 155
+Req Dexterity: 120
+Req level: 43
+Quality level: 58
+Treasure class: 60
+Max sockets: 3
+
+Variants:
+ Spear (Nor.)
+ War Spear (Exc.)
+Lance
+Exceptional Base Item
+2H damage: 27-114
+Base speed: 20
+Class speed: Ama - Slow
+Asn, B, D, N, P, S - Very Slow
+Adds range: 4
+Durability: 25
+Req Strength: 110
+Req Dexterity: 88
+Req level: 25
+Quality level: 47
+Treasure class: 48
+Max sockets: 6
+
+Variants:
+ Pike (Nor.)
+ War Pike (Eli.)
+Yari
+Exceptional Base Item
+2H damage: 29-59
+Base speed: [0]
+Class speed: Ama, B - Normal
+D, N, P, S - Slow
+Asn - Very Slow
+Adds range: 4
+Durability: 28
+Req Strength: 101
+Req level: 25
+Quality level: 44
+Treasure class: 45
+Max sockets: 6
+
+Variants:
+ Ghost Spear (Eli.)
+ Spetum (Nor.)
+War Spear
+Exceptional Base Item
+2H damage: 10-37
+Base speed: -10
+Class speed: Ama - Fast
+B, D, N, P, S - Normal
+Asn - Slow
+Adds range: 3
+Durability: 30
+Req Strength: 25
+Req Dexterity: 25
+Req level: 21
+Quality level: 33
+Treasure class: 33
+Max sockets: 3
+
+Variants:
+ Hyperion Spear (Eli.)
+ Spear (Nor.)
+Pike
+Normal Base Item
+2H damage: 14-63
+Base speed: 20
+Class speed: Ama - Slow
+Asn, B, D, N, P, S - Very Slow
+Adds range: 4
+Durability: 25
+Req Strength: 60
+Req Dexterity: 45
+Quality level: 24
+Treasure class: 24
+Max sockets: 6
+
+Variants:
+ Lance (Exc.)
+ War Pike (Eli.)
+Trident
+Normal Base Item
+2H damage: 9-15
+Base speed: [0]
+Class speed: Ama, B - Normal
+D, N, P, S - Slow
+Asn - Very Slow
+Adds range: 3
+Durability: 35
+Req Strength: 38
+Req Dexterity: 24
+Quality level: 9
+Treasure class: 9
+Max sockets: 4
+
+Variants:
+ Fuscina (Exc.)
+ Stygian Pike (Eli.)
+Spear
+Normal Base Item
+2H damage: 3-15
+Base speed: -10
+Class speed: Ama - Fast
+B, D, N, P, S - Normal
+Asn - Slow
+Adds range: 3
+Durability: 30
+Req Dexterity: 20
+Quality level: 5
+Treasure class: 6
+Max sockets: 3
+
+Variants:
+ Hyperion Spear (Eli.)
+ War Spear (Exc.)
+Great Poleaxe
+Elite Base Item
+2H damage: 46-127
+Base speed: [0]
+Class speed: D, S - Fast
+Asn, B, N, P - Normal
+Ama - Slow
+Adds range: 4
+Durability: 55
+Req Strength: 179
+Req Dexterity: 99
+Req level: 63
+Quality level: 84
+Treasure class: 84
+Max sockets: 6
+
+Variants:
+ Bec-De-Corbin (Exc.)
+ Halberd (Nor.)
+Cryptic Axe
+Elite Base Item
+2H damage: 33-150
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 3
+Durability: 65
+Req Strength: 165
+Req Dexterity: 103
+Req level: 59
+Quality level: 79
+Treasure class: 81
+Max sockets: 5
+
+Variants:
+ Partizan (Exc.)
+ Poleaxe (Nor.)
+Ogre Axe
+Elite Base Item
+2H damage: 28-145
+Base speed: [0]
+Class speed: D, S - Fast
+N- Normal
+Ama, Asn, B, P - Slow
+Adds range: 2
+Durability: 50
+Req Strength: 195
+Req Dexterity: 75
+Req level: 45
+Quality level: 60
+Treasure class: 60
+Max sockets: 3
+
+Variants:
+ Bardiche (Nor.)
+ Lochaber Axe (Exc.)
+Grim Scythe
+Exceptional Base Item
+2H damage: 30-70
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+Ama, Asn, B - Normal
+Adds range: 4
+Durability: 55
+Req Strength: 140
+Req Dexterity: 140
+Req level: 25
+Quality level: 55
+Treasure class: 57
+Max sockets: 6
+
+Variants:
+ Giant Thresher (Eli.)
+ War Scythe (Nor.)
+Partizan
+Exceptional Base Item
+2H damage: 34-75
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 3
+Durability: 65
+Req Strength: 113
+Req Dexterity: 67
+Req level: 23
+Quality level: 35
+Treasure class: 36
+Max sockets: 5
+
+Variants:
+ Cryptic Axe (Eli.)
+ Poleaxe (Nor.)
+War Scythe
+Normal Base Item
+2H damage: 15-36
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+Ama, Asn, B - Normal
+Adds range: 4
+Durability: 55
+Req Strength: 80
+Req Dexterity: 80
+Quality level: 34
+Treasure class: 36
+Max sockets: 6
+
+Variants:
+ Giant Thresher (Eli.)
+ Grim Scythe (Exc.)
+Halberd
+Normal Base Item
+2H damage: 12-45
+Base speed: [0]
+Class speed: D, S - Fast
+Asn, B, N, P - Normal
+Ama - Slow
+Adds range: 4
+Durability: 55
+Req Strength: 75
+Req Dexterity: 47
+Quality level: 29
+Treasure class: 30
+Max sockets: 6
+
+Variants:
+ Bec-De-Corbin (Exc.)
+ Great Poleaxe (Eli.)
+Poleaxe
+Normal Base Item
+2H damage: 18-39
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 3
+Durability: 65
+Req Strength: 62
+Quality level: 21
+Treasure class: 21
+Max sockets: 5
+
+Variants:
+ Cryptic Axe (Eli.)
+ Partizan (Exc.)
+Voulge
+Normal Base Item
+2H damage: 6-21
+Base speed: [0]
+Class speed: D, S - Fast
+Asn, B, N, P - Normal
+Ama - Slow
+Adds range: 2
+Durability: 50
+Req Strength: 50
+Quality level: 11
+Treasure class: 12
+Max sockets: 4
+
+Variants:
+ Bill (Exc.)
+ Colossus Voulge (Eli.)
+Bardiche
+Normal Base Item
+2H damage: 1-27
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 2
+Durability: 50
+Req Strength: 40
+Quality level: 5
+Treasure class: 6
+Max sockets: 3
+
+Variants:
+ Lochaber Axe (Exc.)
+ Ogre Axe (Eli.)
+Shillelagh
+Elite Base Item
+2H damage: 65-108
+Base speed: [0]
+Class speed: S - Fast
+Adds range: 1
+Durability: 40
+Req Strength: 52
+Req Dexterity: 27
+Req level: 62
+ Magic level: 1
+Quality level: 83
+Treasure class: 84
+Max sockets: 4
+
+Variants:
+ Battle Staff (Nor.)
+ Gothic Staff (Exc.)
+Elder Staff
+Elite Base Item
+2H damage: 80-93
+Base speed: [0]
+Class speed: S - Fast
+Adds range: 1
+Durability: 35
+Req Strength: 44
+Req Dexterity: 37
+Req level: 55
+ Magic level: 1
+Quality level: 74
+Treasure class: 75
+Max sockets: 4
+
+Variants:
+ Cedar Staff (Exc.)
+ Gnarled Staff (Nor.)
+Stalagmite
+Elite Base Item
+2H damage: 75-107
+Base speed: 10
+Class speed: S - Normal
+Adds range: 1
+Durability: 30
+Req Strength: 63
+Req Dexterity: 35
+Req level: 49
+ Magic level: 1
+Quality level: 66
+Treasure class: 66
+Max sockets: 3
+
+Variants:
+ Long Staff (Nor.)
+ Quarterstaff (Exc.)
+Walking Stick
+Elite Base Item
+2H damage: 69-85
+Base speed: -10
+Class speed: S - Fast
+Adds range: 1
+Durability: 20
+Req Strength: 25
+Req level: 43
+ Magic level: 1
+Quality level: 58
+Treasure class: 60
+Max sockets: 2
+
+Variants:
+ Jo Staff (Exc.)
+ Short Staff (Nor.)
+Rune Staff
+Exceptional Base Item
+2H damage: 24-58
+Base speed: 20
+Class speed: S - Normal
+Adds range: 1
+Durability: 50
+Req Strength: 25
+Req level: 25
+ Magic level: 1
+Quality level: 47
+Treasure class: 48
+Max sockets: 6
+
+Variants:
+ Archon Staff (Eli.)
+ War Staff (Nor.)
+Gothic Staff
+Exceptional Base Item
+2H damage: 14-34
+Base speed: [0]
+Class speed: S - Fast
+Adds range: 1
+Durability: 40
+Req Strength: 25
+Req level: 25
+ Magic level: 1
+Quality level: 42
+Treasure class: 42
+Max sockets: 4
+
+Variants:
+ Battle Staff (Nor.)
+ Shillelagh (Eli.)
+Cedar Staff
+Exceptional Base Item
+2H damage: 11-32
+Base speed: 10
+Class speed: S - Normal
+Adds range: 1
+Durability: 35
+Req Strength: 25
+Req level: 25
+ Magic level: 1
+Quality level: 38
+Treasure class: 39
+Max sockets: 4
+
+Variants:
+ Elder Staff (Eli.)
+ Gnarled Staff (Nor.)
+Quarterstaff
+Exceptional Base Item
+2H damage: 8-26
+Base speed: [0]
+Class speed: S - Fast
+Adds range: 1
+Durability: 30
+Req Strength: 25
+Req level: 23
+ Magic level: 1
+Quality level: 35
+Treasure class: 36
+Max sockets: 3
+
+Variants:
+ Long Staff (Nor.)
+ Stalagmite (Eli.)
+Jo Staff
+Exceptional Base Item
+2H damage: 6-21
+Base speed: -10
+Class speed: S - Fast
+Adds range: 1
+Durability: 20
+Req Strength: 25
+Req level: 18
+ Magic level: 1
+Quality level: 30
+Treasure class: 30
+Max sockets: 2
+
+Variants:
+ Short Staff (Nor.)
+ Walking Stick (Eli.)
+War Staff
+Normal Base Item
+2H damage: 12-28
+Base speed: 20
+Class speed: S - Normal
+Adds range: 1
+Durability: 50
+ Magic level: 1
+Quality level: 24
+Treasure class: 24
+Max sockets: 6
+
+Variants:
+ Archon Staff (Eli.)
+ Rune Staff (Exc.)
+Battle Staff
+Normal Base Item
+2H damage: 6-13
+Base speed: [0]
+Class speed: S - Fast
+Adds range: 1
+Durability: 40
+ Magic level: 1
+Quality level: 17
+Treasure class: 18
+Max sockets: 4
+
+Variants:
+ Gothic Staff (Exc.)
+ Shillelagh (Eli.)
+Gnarled Staff
+Normal Base Item
+2H damage: 4-12
+Base speed: 10
+Class speed: S - Normal
+Adds range: 1
+Durability: 35
+ Magic level: 1
+Quality level: 12
+Treasure class: 12
+Max sockets: 4
+
+Variants:
+ Cedar Staff (Exc.)
+ Elder Staff (Eli.)
+Long Staff
+Normal Base Item
+2H damage: 2-8
+Base speed: [0]
+Class speed: S - Fast
+Adds range: 1
+Durability: 30
+ Magic level: 1
+Quality level: 8
+Treasure class: 9
+Max sockets: 3
+
+Variants:
+ Quarterstaff (Exc.)
+ Stalagmite (Eli.)
+Short Staff
+Normal Base Item
+2H damage: 1-5
+Base speed: -10
+Class speed: S - Fast
+Adds range: 1
+Durability: 20
+ Magic level: 1
+Quality level: 1
+Treasure class: 3
+Max sockets: 2
+
+Variants:
+ Jo Staff (Exc.)
+ Walking Stick (Eli.)
+War Club
+Exceptional Base Item
+2H damage: 53-78
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 1
+Durability: 60
+Req Strength: 124
+Req level: 25
+Quality level: 45
+Treasure class: 45
+Max sockets: 6
+
+Variants:
+ Maul (Nor.)
+ Ogre Maul (Eli.)
+Great Maul
+Normal Base Item
+2H damage: 38-58
+Base speed: 20
+Class speed: D, S - Normal
+N, P - Slow
+Ama, Asn, B - Very Slow
+Adds range: 2
+Durability: 60
+Req Strength: 99
+Quality level: 32
+Treasure class: 33
+Max sockets: 6
+
+Variants:
+ Martel de Fer (Exc.)
+ Thunder Maul (Eli.)
+Maul
+Normal Base Item
+2H damage: 30-43
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 1
+Durability: 60
+Req Strength: 69
+Quality level: 21
+Treasure class: 21
+Max sockets: 6
+
+Variants:
+ Ogre Maul (Eli.)
+ War Club (Exc.)
+Legendary Mallet
+Elite Base Item
+1H damage: 50-61
+Base speed: 20
+Class speed: Asn, P - Normal
+Ama, B, D, N, S - Slow
+Adds range: 1
+Durability: 65
+Req Strength: 189
+Req level: 61
+Quality level: 82
+Treasure class: 84
+Max sockets: 4
+
+Variants:
+ Battle Hammer (Exc.)
+ War Hammer (Nor.)
+Devil Star
+Elite Base Item
+1H damage: 43-53
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 1
+Durability: 72
+Req Strength: 153
+Req Dexterity: 44
+Req level: 52
+Quality level: 70
+Treasure class: 72
+Max sockets: 3
+
+Variants:
+ Jagged Star (Exc.)
+ Morning Star (Nor.)
+Reinforced Mace
+Elite Base Item
+1H damage: 41-49
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 60
+Req Strength: 145
+Req Dexterity: 46
+Req level: 47
+Quality level: 63
+Treasure class: 63
+Max sockets: 2
+
+Variants:
+ Flanged Mace (Exc.)
+ Mace (Nor.)
+Tyrant Club
+Elite Base Item
+1H damage: 32-58
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 1
+Durability: 65
+Req Strength: 133
+Req level: 42
+Quality level: 57
+Treasure class: 57
+Max sockets: 3
+
+Variants:
+ Barbed Club (Exc.)
+ Spiked Club (Nor.)
+Truncheon
+Elite Base Item
+1H damage: 35-43
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Durability: 55
+Req Strength: 88
+Req Dexterity: 43
+Req level: 39
+Quality level: 52
+Treasure class: 54
+Max sockets: 2
+
+Variants:
+ Club (Nor.)
+ Cudgel (Exc.)
+Battle Hammer
+Exceptional Base Item
+1H damage: 35-58
+Base speed: 20
+Class speed: Asn, P - Normal
+Ama, B, D, N, S - Slow
+Durability: 55
+Req Strength: 100
+Req level: 25
+Quality level: 48
+Treasure class: 48
+Max sockets: 4
+
+Variants:
+ Legendary Mallet (Eli.)
+ War Hammer (Nor.)
+Knout
+Exceptional Base Item
+1H damage: 13-35
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 2
+Durability: 30
+Req Strength: 82
+Req Dexterity: 73
+Req level: 25
+Quality level: 43
+Treasure class: 45
+Max sockets: 5
+
+Variants:
+ Flail (Nor.)
+ Scourge (Eli.)
+Jagged Star
+Exceptional Base Item
+1H damage: 20-31
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 1
+Durability: 72
+Req Strength: 74
+Req level: 25
+Quality level: 39
+Treasure class: 39
+Max sockets: 3
+
+Variants:
+ Devil Star (Eli.)
+ Morning Star (Nor.)
+Flanged Mace
+Exceptional Base Item
+1H damage: 15-23
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 60
+Req Strength: 61
+Req level: 23
+Quality level: 35
+Treasure class: 36
+Max sockets: 2
+
+Variants:
+ Mace (Nor.)
+ Reinforced Mace (Eli.)
+Barbed Club
+Exceptional Base Item
+1H damage: 13-25
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 1
+Durability: 36
+Req Strength: 30
+Req level: 20
+Quality level: 32
+Treasure class: 33
+Max sockets: 3
+
+Variants:
+ Spiked Club (Nor.)
+ Tyrant Club (Eli.)
+Cudgel
+Exceptional Base Item
+1H damage: 6-21
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Durability: 24
+Req Strength: 25
+Req level: 18
+Quality level: 30
+Treasure class: 30
+Max sockets: 2
+
+Variants:
+ Club (Nor.)
+ Truncheon (Eli.)
+War Hammer
+Normal Base Item
+1H damage: 19-29
+Base speed: 20
+Class speed: Asn, P - Normal
+Ama, B, D, N, S - Slow
+Durability: 55
+Req Strength: 53
+Quality level: 25
+Treasure class: 27
+Max sockets: 4
+
+Variants:
+ Battle Hammer (Exc.)
+ Legendary Mallet (Eli.)
+Morning Star
+Normal Base Item
+1H damage: 7-16
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 1
+Durability: 72
+Req Strength: 36
+Quality level: 13
+Treasure class: 15
+Max sockets: 3
+
+Variants:
+ Devil Star (Eli.)
+ Jagged Star (Exc.)
+Mace
+Normal Base Item
+1H damage: 3-10
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 60
+Req Strength: 27
+Quality level: 8
+Treasure class: 9
+Max sockets: 2
+
+Variants:
+ Flanged Mace (Exc.)
+ Reinforced Mace (Eli.)
+Spiked Club
+Normal Base Item
+1H damage: 5-8
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 1
+Durability: 36
+Quality level: 4
+Treasure class: 6
+Max sockets: 2
+
+Variants:
+ Barbed Club (Exc.)
+ Tyrant Club (Eli.)
+Club
+Normal Base Item
+1H damage: 1-6
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Durability: 24
+Quality level: 1
+Treasure class: 3
+Max sockets: 2
+
+Variants:
+ Cudgel (Exc.)
+ Truncheon (Eli.)
+Colossus Blade
+Elite Base Item
+2H damage: 58-115
+1H damage: 25-65
+Base speed: 5
+Class speed: Ama, Asn, B, P - Fast
+D, N, S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 189
+Req Dexterity: 110
+Req level: 63
+Quality level: 85
+Treasure class: 87
+Max sockets: 6
+
+Variants:
+ Executioner Sword (Exc.)
+ Great Sword (Nor.)
+Champion Sword
+Elite Base Item
+2H damage: 71-83
+1H damage: 24-54
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 2
+Durability: 40
+Req Strength: 163
+Req Dexterity: 103
+Req level: 57
+Quality level: 77
+Treasure class: 78
+Max sockets: 4
+
+Variants:
+ Bastard Sword (Nor.)
+ Gothic Sword (Exc.)
+Balrog Blade
+Elite Base Item
+2H damage: 55-118
+1H damage: 15-75
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, N - Fast
+S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 185
+Req Dexterity: 87
+Req level: 53
+Quality level: 71
+Treasure class: 72
+Max sockets: 4
+
+Variants:
+ Giant Sword (Nor.)
+ Tusk Sword (Exc.)
+Highland Blade
+Elite Base Item
+2H damage: 67-96
+1H damage: 22-62
+Base speed: -5
+Class speed: Ama, Asn, B, D, N, P, S - Fast
+Adds range: 2
+Durability: 50
+Req Strength: 171
+Req Dexterity: 104
+Req level: 49
+Quality level: 66
+Treasure class: 66
+Max sockets: 4
+
+Variants:
+ Claymore (Nor.)
+ Dacian Falx (Exc.)
+Gothic Sword
+Exceptional Base Item
+2H damage: 39-60
+1H damage: 14-40
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 1
+Durability: 40
+Req Strength: 113
+Req Dexterity: 20
+Req level: 25
+Quality level: 48
+Treasure class: 48
+Max sockets: 4
+
+Variants:
+ Bastard Sword (Nor.)
+ Champion Sword (Eli.)
+Tusk Sword
+Exceptional Base Item
+2H damage: 19-58
+1H damage: 10-37
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, N - Fast
+S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 104
+Req Dexterity: 71
+Req level: 25
+Quality level: 45
+Treasure class: 45
+Max sockets: 4
+
+Variants:
+ Balrog Blade (Eli.)
+ Giant Sword (Nor.)
+Great Sword
+Normal Base Item
+2H damage: 25-42
+1H damage: 12-20
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 100
+Req Dexterity: 60
+Quality level: 33
+Treasure class: 33
+Max sockets: 6
+
+Variants:
+ Colossus Blade (Eli.)
+ Executioner Sword (Exc.)
+Bastard Sword
+Normal Base Item
+2H damage: 20-28
+1H damage: 7-19
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 1
+Durability: 40
+Req Strength: 62
+Quality level: 24
+Treasure class: 24
+Max sockets: 4
+
+Variants:
+ Champion Sword (Eli.)
+ Gothic Sword (Exc.)
+Giant Sword
+Normal Base Item
+2H damage: 9-28
+1H damage: 3-16
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, N - Fast
+S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 56
+Req Dexterity: 34
+Quality level: 21
+Treasure class: 21
+Max sockets: 4
+
+Variants:
+ Balrog Blade (Eli.)
+ Tusk Sword (Exc.)
+Claymore
+Normal Base Item
+2H damage: 13-30
+1H damage: 5-12
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 47
+Quality level: 17
+Treasure class: 18
+Max sockets: 4
+
+Variants:
+ Dacian Falx (Exc.)
+ Highland Blade (Eli.)
+Two-handed Sword
+Normal Base Item
+2H damage: 8-17
+1H damage: 2-9
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, N - Fast
+S - Normal
+Adds range: 2
+Durability: 44
+Req Strength: 35
+Req Dexterity: 27
+Quality level: 10
+Treasure class: 12
+Max sockets: 3
+
+Variants:
+ Espandon (Exc.)
+ Legend Sword (Eli.)
+Mythical Sword
+Elite Base Item
+1H damage: 40-50
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 1
+Durability: 44
+Req Strength: 147
+Req Dexterity: 124
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 3
+
+Variants:
+ Ancient Sword (Exc.)
+ War Sword (Nor.)
+Conquest Sword
+Elite Base Item
+1H damage: 37-53
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 32
+Req Strength: 142
+Req Dexterity: 112
+Req level: 58
+Quality level: 78
+Treasure class: 78
+Max sockets: 4
+
+Variants:
+ Battle Sword (Exc.)
+ Broad Sword (Nor.)
+Hydra Edge
+Elite Base Item
+1H damage: 28-68
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S - Normal
+Durability: 32
+Req Strength: 142
+Req Dexterity: 105
+Req level: 51
+Quality level: 69
+Treasure class: 69
+Max sockets: 2
+
+Variants:
+ Falchion (Nor.)
+ Tulwar (Exc.)
+Elegant Blade
+Elite Base Item
+1H damage: 33-45
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Durability: 32
+Req Strength: 109
+Req Dexterity: 122
+Req level: 47
+Quality level: 63
+Treasure class: 63
+Max sockets: 2
+
+Variants:
+ Sabre (Nor.)
+ Shamshir (Exc.)
+Ancient Sword
+Exceptional Base Item
+1H damage: 18-43
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 1
+Durability: 44
+Req Strength: 127
+Req Dexterity: 88
+Req level: 25
+Quality level: 49
+Treasure class: 51
+Max sockets: 3
+
+Variants:
+ Mythical Sword (Eli.)
+ War Sword (Nor.)
+Rune Sword
+Exceptional Base Item
+1H damage: 10-42
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 1
+Durability: 44
+Req Strength: 103
+Req Dexterity: 79
+Req level: 25
+Quality level: 44
+Treasure class: 45
+Max sockets: 4
+
+Variants:
+ Cryptic Sword (Eli.)
+ Long Sword (Nor.)
+Tulwar
+Exceptional Base Item
+1H damage: 16-35
+Base speed: 20
+Class speed: Asn, P - Normal
+Ama, B, D, N, S - Slow
+Durability: 32
+Req Strength: 70
+Req Dexterity: 42
+Req level: 25
+Quality level: 37
+Treasure class: 39
+Max sockets: 2
+
+Variants:
+ Falchion (Nor.)
+ Hydra Edge (Eli.)
+Shamshir
+Exceptional Base Item
+1H damage: 10-24
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Durability: 32
+Req Strength: 58
+Req Dexterity: 58
+Req level: 23
+Quality level: 35
+Treasure class: 36
+Max sockets: 2
+
+Variants:
+ Elegant Blade (Eli.)
+ Sabre (Nor.)
+Gladius
+Exceptional Base Item
+1H damage: 8-22
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 24
+Req Strength: 25
+Req level: 18
+Quality level: 30
+Treasure class: 30
+Max sockets: 2
+
+Variants:
+ Falcata (Eli.)
+ Short Sword (Nor.)
+War Sword
+Normal Base Item
+1H damage: 8-20
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 1
+Durability: 44
+Req Strength: 71
+Req Dexterity: 45
+Quality level: 27
+Treasure class: 27
+Max sockets: 3
+
+Variants:
+ Ancient Sword (Exc.)
+ Mythical Sword (Eli.)
+Long Sword
+Normal Base Item
+1H damage: 3-19
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Adds range: 1
+Durability: 44
+Req Strength: 55
+Req Dexterity: 39
+Quality level: 20
+Treasure class: 21
+Max sockets: 4
+
+Variants:
+ Cryptic Sword (Eli.)
+ Rune Sword (Exc.)
+Broad Sword
+Normal Base Item
+1H damage: 7-14
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 32
+Req Strength: 48
+Quality level: 15
+Treasure class: 15
+Max sockets: 4
+
+Variants:
+ Battle Sword (Exc.)
+ Conquest Sword (Eli.)
+Falchion
+Normal Base Item
+1H damage: 9-17
+Base speed: 20
+Class speed: Asn, P - Normal
+Ama, B, D, N, S - Slow
+Durability: 32
+Req Strength: 33
+Quality level: 11
+Treasure class: 12
+Max sockets: 2
+
+Variants:
+ Hydra Edge (Eli.)
+ Tulwar (Exc.)
+Sabre
+Normal Base Item
+1H damage: 3-8
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S - Fast
+Durability: 32
+Req Strength: 25
+Req Dexterity: 25
+Quality level: 8
+Treasure class: 9
+Max sockets: 2
+
+Variants:
+ Elegant Blade (Eli.)
+ Shamshir (Exc.)
+Scimitar
+Normal Base Item
+1H damage: 2-6
+Base speed: -20
+Class speed: Ama, Asn, B, D, N, P - Very Fast
+S - Fast
+Durability: 22
+Req Dexterity: 21
+Quality level: 5
+Treasure class: 6
+Max sockets: 2
+
+Variants:
+ Ataghan (Eli.)
+ Cutlass (Exc.)
+Short Sword
+Normal Base Item
+1H damage: 2-7
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 24
+Quality level: 1
+Treasure class: 3
+Max sockets: 2
+
+Variants:
+ Falcata (Eli.)
+ Gladius (Exc.)
+Legend Spike
+Elite Base Item
+1H damage: 31-47
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Durability: 47
+Req Strength: 65
+Req Dexterity: 67
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 3
+
+Variants:
+ Blade (Nor.)
+ Stiletto (Exc.)
+Fanged Knife
+Elite Base Item
+1H damage: 15-57
+Base speed: -20
+Class speed: Ama, Asn, B, D, N, S - Very Fast
+P - Fast
+Durability: 36
+Req Strength: 42
+Req Dexterity: 86
+Req level: 62
+Quality level: 83
+Treasure class: 84
+Max sockets: 3
+
+Variants:
+ Cinquedeas (Exc.)
+ Kris (Nor.)
+Mithril Point
+Elite Base Item
+1H damage: 37-53
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Durability: 55
+Req Strength: 55
+Req Dexterity: 98
+Req level: 52
+Quality level: 70
+Treasure class: 72
+Max sockets: 1
+
+Variants:
+ Dirk (Nor.)
+ Rondel (Exc.)
+Bone Knife
+Elite Base Item
+1H damage: 23-49
+Base speed: -20
+Class speed: Ama, Asn, B, D, N, S - Very Fast
+P - Fast
+Durability: 26
+Req Strength: 38
+Req Dexterity: 75
+Req level: 43
+Quality level: 58
+Treasure class: 60
+Max sockets: 1
+
+Variants:
+ Dagger (Nor.)
+ Poignard (Exc.)
+Blade
+Normal Base Item
+1H damage: 4-15
+Base speed: -10
+Class speed: Ama, Asn - Very Fast
+B, D, N, P, S - Fast
+Durability: 24
+Req Strength: 35
+Req Dexterity: 51
+Quality level: 23
+Treasure class: 24
+Max sockets: 3
+
+Variants:
+ Legend Spike (Eli.)
+ Stiletto (Exc.)
+Kris
+Normal Base Item
+1H damage: 2-11
+Base speed: -20
+Class speed: Ama, Asn, B, D, N, S - Very Fast
+P - Fast
+Durability: 24
+Req Dexterity: 45
+Quality level: 17
+Treasure class: 18
+Max sockets: 3
+
+Variants:
+ Cinquedeas (Exc.)
+ Fanged Knife (Eli.)
+Dirk
+Normal Base Item
+1H damage: 3-9
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, S - Fast
+P - Normal
+Durability: 20
+Req Dexterity: 25
+Quality level: 9
+Treasure class: 9
+Max sockets: 1
+
+Variants:
+ Mithril Point (Eli.)
+ Rondel (Exc.)
+Grand Matron Bow
+Elite Base Item
+2H damage: 14-72
+Base speed: 10
+Class speed: Ama - Fast
+Req Strength: 108
+Req Dexterity: 152
+Req level: 58
+Quality level: 78
+Treasure class: 78
+Max sockets: 5
+
+Amazon equip only
+Variants:
+ Ceremonial Bow (Exc.)
+ Reflex Bow (Nor.)
+Ceremonial Bow
+Exceptional Base Item
+2H damage: 19-41
+Base speed: 10
+Class speed: Ama - Fast
+Req Strength: 73
+Req Dexterity: 110
+Req level: 35
+Quality level: 47
+Treasure class: 48
+Max sockets: 5
+
+Amazon equip only
+Variants:
+ Grand Matron Bow (Eli.)
+ Reflex Bow (Nor.)
+Ashwood Bow
+Exceptional Base Item
+2H damage: 16-29
+Base speed: [0]
+Class speed: Ama - Fast
+Req Strength: 56
+Req Dexterity: 77
+Req level: 29
+Quality level: 39
+Treasure class: 39
+Max sockets: 5
+
+Amazon equip only
+Variants:
+ Matriarchal Bow (Eli.)
+ Stag Bow (Nor.)
+Reflex Bow
+Normal Base Item
+2H damage: 9-19
+Base speed: 10
+Class speed: Ama - Fast
+Req Strength: 35
+Req Dexterity: 60
+Req level: 20
+Quality level: 27
+Treasure class: 27
+Max sockets: 5
+
+Amazon equip only
+Variants:
+ Ceremonial Bow (Exc.)
+ Grand Matron Bow (Eli.)
+Stag Bow
+Normal Base Item
+2H damage: 7-12
+Base speed: [0]
+Class speed: Ama - Fast
+Req Strength: 30
+Req Dexterity: 45
+Req level: 14
+Quality level: 18
+Treasure class: 18
+Max sockets: 5
+
+Amazon equip only
+Variants:
+ Ashwood Bow (Exc.)
+ Matriarchal Bow (Eli.)
+Demon Crossbow
+Elite Base Item
+2H damage: 26-40
+Base speed: -60
+Class speed: Ama, Asn, B, D, N, P, S - Very Fast
+Req Strength: 141
+Req Dexterity: 98
+Req level: 63
+Quality level: 84
+Treasure class: 84
+Max sockets: 5
+
+Variants:
+ Chu-Ko-Nu (Exc.)
+ Repeating Crossbow (Nor.)
+Colossus Crossbow
+Elite Base Item
+2H damage: 32-91
+Base speed: 10
+Class speed: B, D, N, P, S - Slow
+Ama, Asn - Very Slow
+Req Strength: 163
+Req Dexterity: 77
+Req level: 56
+Quality level: 75
+Treasure class: 75
+Max sockets: 6
+
+Variants:
+ Ballista (Exc.)
+ Heavy Crossbow (Nor.)
+Gorgon Crossbow
+Elite Base Item
+2H damage: 25-87
+Base speed: [0]
+Class speed: D, N, S - Normal
+Ama, Asn, B, P - Slow
+Req Strength: 117
+Req Dexterity: 105
+Req level: 50
+Quality level: 67
+Treasure class: 69
+Max sockets: 4
+
+Variants:
+ Crossbow (Nor.)
+ Siege Crossbow (Exc.)
+Pellet Bow
+Elite Base Item
+2H damage: 28-73
+Base speed: -10
+Class speed: Ama, Asn, B, D, N, P, S - Normal
+Req Strength: 83
+Req Dexterity: 155
+Req level: 42
+Quality level: 57
+Treasure class: 57
+Max sockets: 3
+
+Variants:
+ Arbalest (Exc.)
+ Light Crossbow (Nor.)
+Chu-Ko-Nu
+Exceptional Base Item
+2H damage: 14-32
+Base speed: -60
+Class speed: Ama, Asn, B, D, N, P, S - Very Fast
+Req Strength: 80
+Req Dexterity: 95
+Req level: 25
+Quality level: 54
+Treasure class: 54
+Max sockets: 5
+
+Variants:
+ Demon Crossbow (Eli.)
+ Repeating Crossbow (Nor.)
+Ballista
+Exceptional Base Item
+2H damage: 33-55
+Base speed: 10
+Class speed: B, D, N, P, S - Slow
+Ama, Asn - Very Slow
+Req Strength: 110
+Req Dexterity: 80
+Req level: 25
+Quality level: 47
+Treasure class: 48
+Max sockets: 6
+
+Variants:
+ Colossus Crossbow (Eli.)
+ Heavy Crossbow (Nor.)
+Siege Crossbow
+Exceptional Base Item
+2H damage: 20-42
+Base speed: [0]
+Class speed: D, N, S - Normal
+Ama, Asn, B, P - Slow
+Req Strength: 80
+Req Dexterity: 70
+Req level: 25
+Quality level: 40
+Treasure class: 42
+Max sockets: 4
+
+Variants:
+ Crossbow (Nor.)
+ Gorgon Crossbow (Eli.)
+Arbalest
+Exceptional Base Item
+2H damage: 14-27
+Base speed: -10
+Class speed: Ama, Asn, B, D, N, P, S - Normal
+Req Strength: 52
+Req Dexterity: 61
+Req level: 22
+Quality level: 34
+Treasure class: 36
+Max sockets: 3
+
+Variants:
+ Light Crossbow (Nor.)
+ Pellet Bow (Eli.)
+Repeating Crossbow
+Normal Base Item
+2H damage: 6-12
+Base speed: -40
+Class speed: D, N, S - Very Fast
+Ama, Asn, B, P - Fast
+Req Strength: 40
+Req Dexterity: 50
+Quality level: 33
+Treasure class: 33
+Max sockets: 5
+
+Variants:
+ Chu-Ko-Nu (Exc.)
+ Demon Crossbow (Eli.)
+Heavy Crossbow
+Normal Base Item
+2H damage: 14-26
+Base speed: 10
+Class speed: B, D, N, P, S - Slow
+Ama, Asn - Very Slow
+Req Strength: 60
+Req Dexterity: 40
+Quality level: 24
+Treasure class: 24
+Max sockets: 6
+B, D, N, P, S - SlowAma, Asn - Very Slow
+
+Variants:
+ Ballista (Exc.)
+ Colossus Crossbow (Eli.)
+Light Crossbow
+Normal Base Item
+2H damage: 6-9
+Base speed: -10
+Class speed: Ama, Asn, B, D, N, P, S - Normal
+Req Strength: 21
+Req Dexterity: 27
+Quality level: 6
+Treasure class: 6
+Max sockets: 3
+
+Variants:
+ Arbalest (Exc.)
+ Pellet Bow (Eli.)
+Hydra Bow
+Elite Base Item
+2H damage: 10-68
+Base speed: 10
+Class speed: Ama, B, D - Fast
+Asn, N, P, S - Normal
+Req Strength: 134
+Req Dexterity: 167
+Req level: 63
+Quality level: 85
+Treasure class: 87
+Max sockets: 6
+
+Variants:
+ Gothic Bow (Exc.)
+ Long War Bow (Nor.)
+Ward Bow
+Elite Base Item
+2H damage: 20-53
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 72
+Req Dexterity: 146
+Req level: 60
+Quality level: 80
+Treasure class: 81
+Max sockets: 5
+
+Variants:
+ Rune Bow (Exc.)
+ Short War Bow (Nor.)
+Crusader Bow
+Elite Base Item
+2H damage: 15-63
+Base speed: 10
+Class speed: Ama, B, D - Fast
+Asn, N, P, S - Normal
+Req Strength: 97
+Req Dexterity: 121
+Req level: 57
+Quality level: 77
+Treasure class: 78
+Max sockets: 6
+
+Variants:
+ Large Siege Bow (Exc.)
+ Long Battle Bow (Nor.)
+Diamond Bow
+Elite Base Item
+2H damage: 33-40
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 89
+Req Dexterity: 132
+Req level: 54
+Quality level: 72
+Treasure class: 72
+Max sockets: 5
+
+Variants:
+ Short Battle Bow (Nor.)
+ Short Siege Bow (Exc.)
+Great Bow
+Elite Base Item
+2H damage: 12-52
+Base speed: -10
+Class speed: Ama, B, D - Very Fast
+Asn, N, P, S - Fast
+Req Strength: 121
+Req Dexterity: 107
+Req level: 51
+Quality level: 68
+Treasure class: 69
+Max sockets: 4
+
+Variants:
+ Composite Bow (Nor.)
+ Double Bow (Exc.)
+Blade Bow
+Elite Base Item
+2H damage: 21-41
+Base speed: -10
+Class speed: Ama, B, D - Very Fast
+Asn, N, P, S - Fast
+Req Strength: 76
+Req Dexterity: 119
+Req level: 45
+Quality level: 60
+Treasure class: 60
+Max sockets: 4
+
+Variants:
+ Hunter's Bow (Nor.)
+ Razor Bow (Exc.)
+Spider Bow
+Elite Base Item
+2H damage: 23-50
+Base speed: 5
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 64
+Req Dexterity: 143
+Req level: 41
+Quality level: 55
+Treasure class: 57
+Max sockets: 3
+
+Variants:
+ Edge Bow (Exc.)
+ Short Bow (Nor.)
+Gothic Bow
+Exceptional Base Item
+2H damage: 10-50
+Base speed: 10
+Class speed: Ama, B, D - Fast
+Asn, N, P, S - Normal
+Req Strength: 95
+Req Dexterity: 118
+Req level: 25
+Quality level: 52
+Treasure class: 54
+Max sockets: 6
+
+Variants:
+ Hydra Bow (Eli.)
+ Long War Bow (Nor.)
+Rune Bow
+Exceptional Base Item
+2H damage: 14-35
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 73
+Req Dexterity: 103
+Req level: 25
+Quality level: 49
+Treasure class: 51
+Max sockets: 5
+
+Variants:
+ Short War Bow (Nor.)
+ Ward Bow (Eli.)
+Large Siege Bow
+Exceptional Base Item
+2H damage: 10-42
+Base speed: 10
+Class speed: Ama, B, D - Fast
+Asn, N, P, S - Normal
+Req Strength: 80
+Req Dexterity: 95
+Req level: 25
+Quality level: 46
+Treasure class: 48
+Max sockets: 6
+
+Variants:
+ Crusader Bow (Eli.)
+ Long Battle Bow (Nor.)
+Short Siege Bow
+Exceptional Base Item
+2H damage: 13-30
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 65
+Req Dexterity: 80
+Req level: 25
+Quality level: 43
+Treasure class: 45
+Max sockets: 5
+
+Variants:
+ Diamond Bow (Eli.)
+ Short Battle Bow (Nor.)
+Double Bow
+Exceptional Base Item
+2H damage: 11-26
+Base speed: -10
+Class speed: Ama, B, D - Very Fast
+Asn, N, P, S - Fast
+Req Strength: 58
+Req Dexterity: 73
+Req level: 25
+Quality level: 39
+Treasure class: 39
+Max sockets: 4
+
+Variants:
+ Composite Bow (Nor.)
+ Great Bow (Eli.)
+Cedar Bow
+Exceptional Base Item
+2H damage: 10-29
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 53
+Req Dexterity: 49
+Req level: 23
+Quality level: 35
+Treasure class: 36
+Max sockets: 5
+
+Variants:
+ Long Bow (Nor.)
+ Shadow Bow (Eli.)
+Razor Bow
+Exceptional Base Item
+2H damage: 8-22
+Base speed: -10
+Class speed: Ama, B, D - Very Fast
+Asn, N, P, S - Fast
+Req Strength: 25
+Req Dexterity: 62
+Req level: 21
+Quality level: 33
+Treasure class: 33
+Max sockets: 4
+
+Variants:
+ Blade Bow (Eli.)
+ Hunter's Bow (Nor.)
+Edge Bow
+Exceptional Base Item
+2H damage: 6-19
+Base speed: 5
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 18
+Req Dexterity: 43
+Req level: 18
+Quality level: 30
+Treasure class: 30
+Max sockets: 3
+
+Variants:
+ Short Bow (Nor.)
+ Spider Bow (Eli.)
+Long War Bow
+Normal Base Item
+2H damage: 3-23
+Base speed: 10
+Class speed: Ama, B, D - Fast
+Asn, N, P, S - Normal
+Req Strength: 50
+Req Dexterity: 65
+Quality level: 31
+Treasure class: 33
+Max sockets: 6
+
+Variants:
+ Gothic Bow (Exc.)
+ Hydra Bow (Eli.)
+Short War Bow
+Normal Base Item
+2H damage: 6-14
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 35
+Req Dexterity: 55
+Quality level: 27
+Treasure class: 27
+Max sockets: 5
+
+Variants:
+ Rune Bow (Exc.)
+ Ward Bow (Eli.)
+Long Battle Bow
+Normal Base Item
+2H damage: 3-18
+Base speed: 10
+Class speed: Ama, B, D - Fast
+Asn, N, P, S - Normal
+Req Strength: 40
+Req Dexterity: 50
+Quality level: 23
+Treasure class: 24
+Max sockets: 6
+
+Variants:
+ Crusader Bow (Eli.)
+ Large Siege Bow (Exc.)
+Short Battle Bow
+Normal Base Item
+2H damage: 5-11
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 30
+Req Dexterity: 40
+Quality level: 18
+Treasure class: 18
+Max sockets: 5
+
+Variants:
+ Diamond Bow (Eli.)
+ Short Siege Bow (Exc.)
+Composite Bow
+Normal Base Item
+2H damage: 4-8
+Base speed: -10
+Class speed: Ama, B, D - Very Fast
+Asn, N, P, S - Fast
+Req Strength: 25
+Req Dexterity: 35
+Quality level: 12
+Treasure class: 12
+Max sockets: 4
+
+Variants:
+ Double Bow (Exc.)
+ Great Bow (Eli.)
+Long Bow
+Normal Base Item
+2H damage: 3-10
+Base speed: [0]
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Strength: 22
+Req Dexterity: 19
+Quality level: 8
+Treasure class: 9
+Max sockets: 5
+
+Variants:
+ Cedar Bow (Exc.)
+ Shadow Bow (Eli.)
+Short Bow
+Normal Base Item
+2H damage: 1-4
+Base speed: 5
+Class speed: Ama, Asn, B, D, P, S - Fast
+N - Normal
+Req Dexterity: 15
+Quality level: 1
+Treasure class: 3
+Max sockets: 3
+
+Variants:
+ Edge Bow (Exc.)
+ Spider Bow (Eli.)
+Glorious Axe
+Elite Base Item
+2H damage: 60-124
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 3
+Durability: 50
+Req Strength: 164
+Req Dexterity: 55
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 6
+
+Variants:
+ Ancient Axe (Exc.)
+ Giant Axe (Nor.)
+Champion Axe
+Elite Base Item
+2H damage: 59-94
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+B, Ama, Asn - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 167
+Req Dexterity: 59
+Req level: 61
+Quality level: 82
+Treasure class: 84
+Max sockets: 6
+
+Variants:
+ Gothic Axe (Exc.)
+ Great Axe (Nor.)
+Silver-Edged Axe
+Elite Base Item
+2H damage: 62-110
+Base speed: [0]
+Class speed: D, P, S - Fast
+Ama, Asn, B, N - Normal
+Adds range: 2
+Durability: 35
+Req Strength: 166
+Req Dexterity: 65
+Req level: 48
+Quality level: 65
+Treasure class: 66
+Max sockets: 5
+
+Variants:
+ Bearded Axe (Exc.)
+ Broad Axe (Nor.)
+Feral Axe
+Elite Base Item
+2H damage: 25-123
+Base speed: -15
+Class speed: D, S - Very Fast
+N, P - Fast
+Ama, Asn, B, - Normal
+Adds range: 2
+Durability: 30
+Req Strength: 196
+Req level: 42
+Quality level: 57
+Treasure class: 57
+Max sockets: 4
+
+Variants:
+ Large Axe (Nor.)
+ Military Axe (Exc.)
+Ancient Axe
+Exceptional Base Item
+2H damage: 43-85
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 3
+Durability: 50
+Req Strength: 125
+Req level: 25
+Quality level: 51
+Treasure class: 51
+Max sockets: 6
+
+Variants:
+ Giant Axe (Nor.)
+ Glorious Axe (Eli.)
+Gothic Axe
+Exceptional Base Item
+2H damage: 18-70
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+B, Ama, Asn - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 115
+Req Dexterity: 79
+Req level: 25
+Quality level: 46
+Treasure class: 48
+Max sockets: 6
+
+Variants:
+ Champion Axe (Eli.)
+ Great Axe (Nor.)
+Bearded Axe
+Exceptional Base Item
+2H damage: 21-49
+Base speed: [0]
+Class speed: D, P, S - Fast
+Ama, Asn, B, N - Normal
+Adds range: 1
+Durability: 35
+Req Strength: 92
+Req level: 25
+Quality level: 38
+Treasure class: 39
+Max sockets: 5
+
+Variants:
+ Broad Axe (Nor.)
+ Silver-Edged Axe (Eli.)
+Military Axe
+Exceptional Base Item
+2H damage: 14-34
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+Ama, Asn, B, - Normal
+Adds range: 1
+Durability: 30
+Req Strength: 73
+Req level: 22
+Quality level: 34
+Treasure class: 36
+Max sockets: 4
+
+Variants:
+ Feral Axe (Eli.)
+ Large Axe (Nor.)
+Giant Axe
+Normal Base Item
+2H damage: 22-45
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 3
+Durability: 50
+Req Strength: 70
+Quality level: 27
+Treasure class: 27
+Max sockets: 6
+
+Variants:
+ Ancient Axe (Exc.)
+ Glorious Axe (Eli.)
+Great Axe
+Normal Base Item
+2H damage: 9-30
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+B, Ama, Asn - Normal
+Adds range: 2
+Durability: 50
+Req Strength: 63
+Req Dexterity: 39
+Quality level: 23
+Treasure class: 24
+Max sockets: 6
+
+Variants:
+ Champion Axe (Eli.)
+ Gothic Axe (Exc.)
+Battle Axe
+Normal Base Item
+2H damage: 12-32
+Base speed: 10
+Class speed: D - Fast
+N, S - Normal
+Ama, Asn, B, P - Slow
+Adds range: 1
+Durability: 40
+Req Strength: 54
+Quality level: 17
+Treasure class: 18
+Max sockets: 5
+
+Variants:
+ Decapitator (Eli.)
+ Tabar (Exc.)
+Broad Axe
+Normal Base Item
+2H damage: 10-18
+Base speed: [0]
+Class speed: D, P, S - Fast
+Ama, Asn, B, N - Normal
+Adds range: 1
+Durability: 35
+Req Strength: 48
+Quality level: 12
+Treasure class: 12
+Max sockets: 5
+
+Variants:
+ Bearded Axe (Exc.)
+ Silver-Edged Axe (Eli.)
+Large Axe
+Normal Base Item
+2H damage: 6-13
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+Ama, Asn, B, - Normal
+Adds range: 1
+Durability: 30
+Req Strength: 35
+Quality level: 6
+Treasure class: 6
+Max sockets: 4
+
+Variants:
+ Feral Axe (Eli.)
+ Military Axe (Exc.)
+Small Crescent
+Elite Base Item
+1H damage: 38-60
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D,N, S, - Normal
+Adds range: 1
+Durability: 24
+Req Strength: 115
+Req Dexterity: 83
+Req level: 45
+Quality level: 61
+Treasure class: 63
+Max sockets: 4
+
+Variants:
+ Axe (Nor.)
+ Cleaver (Exc.)
+Tomahawk
+Elite Base Item
+1H damage: 33-58
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 28
+Req Strength: 125
+Req Dexterity: 67
+Req level: 40
+Quality level: 54
+Treasure class: 54
+Max sockets: 2
+
+Variants:
+ Hand Axe (Nor.)
+ Hatchet (Exc.)
+Naga
+Exceptional Base Item
+1H damage: 16-45
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 2
+Durability: 26
+Req Strength: 121
+Req level: 25
+Quality level: 48
+Treasure class: 48
+Max sockets: 6
+
+Variants:
+ Berserker Axe (Eli.)
+ War Axe (Nor.)
+Crowbill
+Exceptional Base Item
+1H damage: 14-34
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S, - Fast
+Adds range: 1
+Durability: 26
+Req Strength: 94
+Req Dexterity: 70
+Req level: 25
+Quality level: 43
+Treasure class: 45
+Max sockets: 6
+
+Variants:
+ Military Pick (Nor.)
+ War Spike (Eli.)
+Twin Axe
+Exceptional Base Item
+1H damage: 13-38
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D, N, S, - Normal
+Adds range: 1
+Durability: 24
+Req Strength: 85
+Req level: 25
+Quality level: 39
+Treasure class: 39
+Max sockets: 5
+
+Variants:
+ Double Axe (Nor.)
+ Ettin Axe (Eli.)
+Cleaver
+Exceptional Base Item
+1H damage: 10-33
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D,N, S, - Normal
+Adds range: 1
+Durability: 24
+Req Strength: 68
+Req level: 22
+Quality level: 34
+Treasure class: 36
+Max sockets: 4
+
+Variants:
+ Axe (Nor.)
+ Small Crescent (Eli.)
+Hatchet
+Exceptional Base Item
+1H damage: 10-21
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 28
+Req Strength: 25
+Req Dexterity: 25
+Req level: 19
+Quality level: 31
+Treasure class: 33
+Max sockets: 2
+
+Variants:
+ Hand Axe (Nor.)
+ Tomahawk (Eli.)
+War Axe
+Normal Base Item
+1H damage: 10-18
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Adds range: 2
+Durability: 26
+Req Strength: 67
+Quality level: 25
+Treasure class: 27
+Max sockets: 6
+
+Variants:
+ Berserker Axe (Eli.)
+ Naga (Exc.)
+Military Pick
+Normal Base Item
+1H damage: 7-11
+Base speed: -10
+Class speed: Asn, P - Very Fast
+Ama, B, D, N, S, - Fast
+Adds range: 1
+Durability: 26
+Req Strength: 49
+Req Dexterity: 33
+Quality level: 19
+Treasure class: 21
+Max sockets: 6
+
+Variants:
+ Crowbill (Exc.)
+ War Spike (Eli.)
+Axe
+Normal Base Item
+1H damage: 4-11
+Base speed: 10
+Class speed: Asn, P - Fast
+Ama, B, D,N, S, - Normal
+Adds range: 1
+Durability: 24
+Req Strength: 32
+Quality level: 7
+Treasure class: 9
+Max sockets: 4
+
+Variants:
+ Cleaver (Exc.)
+ Small Crescent (Eli.)
+Hand Axe
+Normal Base Item
+1H damage: 3-6
+Base speed: [0]
+Class speed: Ama, Asn, B, D, N, P - Fast
+S - Normal
+Durability: 28
+Quality level: 3
+Treasure class: 3
+Max sockets: 2
+
+Variants:
+ Hatchet (Exc.)
+ Tomahawk (Eli.)
+Colossus Girdle
+Elite Base Item
+Defense: 61-71
+Durability: 24
+Req Strength: 185
+Req level: 67
+Quality level: 85
+Treasure class: 87
+Belt boxes: 16
+
+Variants:
+ Plated Belt (Nor.)
+ War Belt (Exc.)
+Troll Belt
+Elite Base Item
+Defense: 59-66
+Durability: 18
+Req Strength: 151
+Req level: 62
+Quality level: 82
+Treasure class: 84
+Belt boxes: 16
+
+Variants:
+ Battle Belt (Exc.)
+ Heavy Belt (Nor.)
+Battle Belt
+Exceptional Base Item
+Defense: 37-42
+Durability: 18
+Req Strength: 88
+Req level: 25
+Quality level: 49
+Treasure class: 51
+Belt boxes: 16
+
+Variants:
+ Heavy Belt (Nor.)
+ Troll Belt (Eli.)
+Heavy Belt
+Normal Base Item
+Defense: 6
+Durability: 18
+Req Strength: 45
+Quality level: 20
+Treasure class: 21
+Belt boxes: 12
+
+Variants:
+ Battle Belt (Exc.)
+ Troll Belt (Eli.)
+Mithril Coil
+Elite Base Item
+Defense: 58-65
+Durability: 16
+Req Strength: 106
+Req level: 56
+Quality level: 75
+Treasure class: 75
+Belt boxes: 16
+
+Variants:
+ Belt (Nor.)
+ Mesh Belt (Exc.)
+Vampirefang Belt
+Elite Base Item
+Defense: 56-63
+Durability: 14
+Req Strength: 50
+Req level: 51
+Quality level: 68
+Treasure class: 69
+Belt boxes: 16
+
+Variants:
+ Light Belt (Nor.)
+ Sharkskin Belt (Exc.)
+Light Belt
+Normal Base Item
+Defense: 3
+Durability: 14
+Quality level: 7
+Treasure class: 9
+Belt boxes: 8
+
+Variants:
+ Sharkskin Belt (Exc.)
+ Vampirefang Belt (Eli.)
+Spiderweb Sash
+Elite Base Item
+Defense: 55-62
+Durability: 12
+Req Strength: 50
+Req level: 46
+Quality level: 61
+Treasure class: 63
+Belt boxes: 16
+
+Variants:
+ Demonhide Sash (Exc.)
+ Sash (Nor.)
+Sash
+Normal Base Item
+Defense: 2
+Durability: 12
+Quality level: 3
+Treasure class: 3
+Belt boxes: 8
+
+Variants:
+ Demonhide Sash (Exc.)
+ Spiderweb Sash (Eli.)
+Ogre Gauntlets
+Elite Base Item
+Defense: 62-71
+Durability: 24
+Req Strength: 185
+Req level: 64
+Quality level: 85
+Treasure class: 87
+
+Variants:
+ Gauntlets (Nor.)
+ War Gauntlets (Exc.)
+War Gauntlets
+Exceptional Base Item
+Defense: 43-53
+Durability: 24
+Req Strength: 110
+Req level: 25
+Quality level: 54
+Treasure class: 54
+
+Variants:
+ Gauntlets (Nor.)
+ Ogre Gauntlets (Eli.)
+Battle Gauntlets
+Exceptional Base Item
+Defense: 39-47
+Durability: 18
+Req Strength: 88
+Req level: 25
+Quality level: 49
+Treasure class: 51
+
+Variants:
+ Crusader Gauntlets (Eli.)
+ Light Gauntlets (Nor.)
+Light Gauntlets
+Normal Base Item
+Defense: 9-11
+Durability: 18
+Req Strength: 45
+Quality level: 20
+Treasure class: 21
+
+Variants:
+ Battle Gauntlets (Exc.)
+ Crusader Gauntlets (Eli.)
+Vambraces
+Elite Base Item
+Defense: 59-67
+Durability: 16
+Req Strength: 106
+Req level: 51
+Quality level: 69
+Treasure class: 69
+
+Variants:
+ Chain Gloves (Nor.)
+ Heavy Bracers (Exc.)
+Heavy Bracers
+Exceptional Base Item
+Defense: 37-44
+Durability: 16
+Req Strength: 58
+Req level: 25
+Quality level: 43
+Treasure class: 45
+
+Variants:
+ Chain Gloves (Nor.)
+ Vambraces (Eli.)
+Chain Gloves
+Normal Base Item
+Defense: 8-9
+Durability: 16
+Req Strength: 25
+Quality level: 12
+Treasure class: 12
+
+Variants:
+ Heavy Bracers (Exc.)
+ Vambraces (Eli.)
+Vampirebone Gloves
+Elite Base Item
+Defense: 56-65
+Durability: 14
+Req Strength: 50
+Req level: 47
+Quality level: 63
+Treasure class: 63
+
+Variants:
+ Heavy Gloves (Nor.)
+ Sharkskin Gloves (Exc.)
+Sharkskin Gloves
+Exceptional Base Item
+Defense: 33-39
+Durability: 14
+Req Strength: 20
+Req level: 25
+Quality level: 39
+Treasure class: 39
+
+Variants:
+ Heavy Gloves (Nor.)
+ Vampirebone Gloves (Eli.)
+Heavy Gloves
+Normal Base Item
+Defense: 5-6
+Durability: 14
+Quality level: 7
+Treasure class: 9
+
+Variants:
+ Sharkskin Gloves (Exc.)
+ Vampirebone Gloves (Eli.)
+Bramble Mitts
+Elite Base Item
+Defense: 54-62
+Durability: 12
+Req Strength: 50
+Req level: 42
+Quality level: 57
+Treasure class: 57
+
+Variants:
+ Demonhide Gloves (Exc.)
+ Leather Gloves (Nor.)
+Demonhide Gloves
+Exceptional Base Item
+Defense: 28-35
+Durability: 12
+Req Strength: 20
+Req level: 21
+Quality level: 33
+Treasure class: 33
+
+Variants:
+ Bramble Mitts (Eli.)
+ Leather Gloves (Nor.)
+Leather Gloves
+Normal Base Item
+Defense: 2-3
+Durability: 12
+Quality level: 3
+Treasure class: 3
+
+Variants:
+ Bramble Mitts (Eli.)
+ Demonhide Gloves (Exc.)
+Myrmidon Greaves
+Elite Base Item
+Defense: 62-71
+Durability: 24
+Req Strength: 208
+Req level: 65
+Quality level: 85
+Treasure class: 87
+Assassin kick dmg: 83-149
+
+Variants:
+ Greaves (Nor.)
+ War Boots (Exc.)
+War Boots
+Exceptional Base Item
+Defense: 43-53
+Durability: 24
+Req Strength: 125
+Req level: 25
+Quality level: 54
+Treasure class: 54
+Assassin kick dmg: 39-80
+
+Variants:
+ Greaves (Nor.)
+ Myrmidon Greaves (Eli.)
+Greaves
+Normal Base Item
+Defense: 12-15
+Durability: 24
+Req Strength: 70
+Quality level: 27
+Treasure class: 27
+Assassin kick dmg: 10-20
+
+Variants:
+ Myrmidon Greaves (Eli.)
+ War Boots (Exc.)
+Mirrored Boots
+Elite Base Item
+Defense: 59-68
+Durability: 18
+Req Strength: 163
+Req level: 60
+Quality level: 81
+Treasure class: 81
+Assassin kick dmg: 50-145
+
+Variants:
+ Battle Boots (Exc.)
+ Light Plated Boots (Nor.)
+Battle Boots
+Exceptional Base Item
+Defense: 39-47
+Durability: 18
+Req Strength: 95
+Req level: 25
+Quality level: 49
+Treasure class: 51
+Assassin kick dmg: 37-64
+
+Variants:
+ Light Plated Boots (Nor.)
+ Mirrored Boots (Eli.)
+Light Plated Boots
+Normal Base Item
+Defense: 9-11
+Durability: 18
+Req Strength: 50
+Quality level: 20
+Treasure class: 21
+Assassin kick dmg: 8-16
+
+Variants:
+ Battle Boots (Exc.)
+ Mirrored Boots (Eli.)
+Boneweave Boots
+Elite Base Item
+Defense: 59-67
+Durability: 16
+Req Strength: 118
+Req level: 54
+Quality level: 72
+Treasure class: 72
+Assassin kick dmg: 69-118
+
+Variants:
+ Chain Boots (Nor.)
+ Mesh Boots (Exc.)
+Mesh Boots
+Exceptional Base Item
+Defense: 37-44
+Durability: 16
+Req Strength: 65
+Req level: 25
+Quality level: 43
+Treasure class: 45
+Assassin kick dmg: 23-52
+
+Variants:
+ Boneweave Boots (Eli.)
+ Chain Boots (Nor.)
+Chain Boots
+Normal Base Item
+Defense: 8-9
+Durability: 16
+Req Strength: 30
+Quality level: 12
+Treasure class: 12
+Assassin kick dmg: 6-12
+
+Variants:
+ Boneweave Boots (Eli.)
+ Mesh Boots (Exc.)
+Scarabshell Boots
+Elite Base Item
+Defense: 56-65
+Durability: 14
+Req Strength: 91
+Req level: 49
+Quality level: 66
+Treasure class: 66
+Assassin kick dmg: 60-110
+
+Variants:
+ Heavy Boots (Nor.)
+ Sharkskin Boots (Exc.)
+Sharkskin Boots
+Exceptional Base Item
+Defense: 33-39
+Durability: 14
+Req Strength: 47
+Req level: 25
+Quality level: 39
+Treasure class: 39
+Assassin kick dmg: 28-50
+
+Variants:
+ Heavy Boots (Nor.)
+ Scarabshell Boots (Eli.)
+Heavy Boots
+Normal Base Item
+Defense: 5-6
+Durability: 14
+Req Strength: 18
+Quality level: 7
+Treasure class: 9
+Assassin kick dmg: 4-10
+
+Variants:
+ Scarabshell Boots (Eli.)
+ Sharkskin Boots (Exc.)
+Wyrmhide Boots
+Elite Base Item
+Defense: 54-62
+Durability: 12
+Req Strength: 50
+Req level: 45
+Quality level: 60
+Treasure class: 60
+Assassin kick dmg: 65-100
+
+Variants:
+ Boots (Nor.)
+ Demonhide Boots (Exc.)
+Demonhide Boots
+Exceptional Base Item
+Defense: 28-35
+Durability: 12
+Req Strength: 20
+Req level: 24
+Quality level: 36
+Treasure class: 36
+Assassin kick dmg: 26-46
+
+Variants:
+ Boots (Nor.)
+ Wyrmhide Boots (Eli.)
+Spired Helm
+Elite Base Item
+Defense: 114-159
+Durability: 40
+Req Strength: 192
+Req level: 59
+Quality level: 79
+Treasure class: 81
+Max sockets: 3
+
+Variants:
+ Great Helm (Nor.)
+ Winged Helm (Exc.)
+Winged Helm
+Exceptional Base Item
+Defense: 85-98
+Durability: 40
+Req Strength: 115
+Req level: 25
+Quality level: 51
+Treasure class: 51
+Max sockets: 3
+
+Variants:
+ Great Helm (Nor.)
+ Spired Helm (Eli.)
+Grand Crown
+Exceptional Base Item
+Defense: 78-113
+Durability: 50
+Req Strength: 103
+Req level: 25
+Quality level: 55
+Treasure class: 57
+Max sockets: 3
+
+Variants:
+ Corona (Eli.)
+ Crown (Nor.)
+Bone Visage
+Elite Base Item
+Defense: 100-157
+Durability: 40
+Req Strength: 106
+Req level: 63
+Quality level: 84
+Treasure class: 84
+Max sockets: 3
+
+Variants:
+ Bone Helm (Nor.)
+ Grim Helm (Exc.)
+Grim Helm
+Exceptional Base Item
+Defense: 60-125
+Durability: 40
+Req Strength: 58
+Req level: 25
+Quality level: 50
+Treasure class: 51
+Max sockets: 2
+
+Variants:
+ Bone Helm (Nor.)
+ Bone Visage (Eli.)
+Bone Helm
+Normal Base Item
+Defense: 33-36
+Durability: 40
+Req Strength: 25
+Quality level: 22
+Treasure class: 24
+Max sockets: 2
+
+Variants:
+ Bone Visage (Eli.)
+ Grim Helm (Exc.)
+Death Mask
+Exceptional Base Item
+Defense: 54-86
+Durability: 20
+Req Strength: 55
+Req level: 25
+Quality level: 48
+Treasure class: 48
+Max sockets: 3
+
+Variants:
+ Demonhead (Eli.)
+ Mask (Nor.)
+Giant Conch
+Elite Base Item
+Defense: 110-154
+Durability: 30
+Req Strength: 142
+Req level: 40
+Quality level: 54
+Treasure class: 54
+Max sockets: 2
+
+Variants:
+ Basinet (Exc.)
+ Full Helm (Nor.)
+Basinet
+Exceptional Base Item
+Defense: 75-84
+Durability: 30
+Req Strength: 82
+Req level: 25
+Quality level: 45
+Treasure class: 45
+Max sockets: 2
+
+Variants:
+ Full Helm (Nor.)
+ Giant Conch (Eli.)
+Full Helm
+Normal Base Item
+Defense: 23-26
+Durability: 30
+Req Strength: 41
+Quality level: 15
+Treasure class: 15
+Max sockets: 2
+
+Variants:
+ Basinet (Exc.)
+ Giant Conch (Eli.)
+Armet
+Elite Base Item
+Defense: 105-149
+Durability: 24
+Req Strength: 109
+Req level: 51
+Quality level: 68
+Treasure class: 69
+Max sockets: 2
+
+Variants:
+ Casque (Exc.)
+ Helm (Nor.)
+Casque
+Exceptional Base Item
+Defense: 63-72
+Durability: 24
+Req Strength: 59
+Req level: 25
+Quality level: 42
+Treasure class: 42
+Max sockets: 2
+
+Variants:
+ Armet (Eli.)
+ Helm (Nor.)
+Helm
+Normal Base Item
+Defense: 15-18
+Durability: 24
+Req Strength: 26
+Quality level: 11
+Treasure class: 12
+Max sockets: 2
+
+Variants:
+ Armet (Eli.)
+ Casque (Exc.)
+Hydraskull
+Elite Base Item
+Defense: 101-145
+Durability: 18
+Req Strength: 84
+Req level: 47
+Quality level: 63
+Treasure class: 63
+Max sockets: 2
+
+Variants:
+ Sallet (Exc.)
+ Skull Cap (Nor.)
+Skull Cap
+Normal Base Item
+Defense: 8-11
+Durability: 18
+Req Strength: 15
+Quality level: 5
+Treasure class: 6
+Max sockets: 2
+
+Variants:
+ Hydraskull (Eli.)
+ Sallet (Exc.)
+War Hat
+Exceptional Base Item
+Defense: 45-53
+Durability: 12
+Req Strength: 20
+Req level: 22
+Quality level: 24
+Treasure class: 36
+Max sockets: 2
+
+Variants:
+ Cap (Nor.)
+ Shako (Eli.)
+Cap
+Normal Base Item
+Defense: 3-5
+Durability: 12
+Quality level: 1
+Treasure class: 3
+Max sockets: 2
+
+Variants:
+ Shako (Eli.)
+ War Hat (Exc.)
+Aegis
+Elite Base Item
+Defense: 145-161
+Durability: 92
+Req Strength: 219
+Req level: 59
+Quality level: 79
+Treasure class: 81
+Max sockets: 4
+Weight: Heavy
+Base block: 24
+Class block: Pal: 54%
+Ama/Asn/Bar: 49%
+Dru/Nec/Sor: 44%
+Paladin smite dmg: 18-28
+
+Variants:
+ Pavise (Exc.)
+ Tower Shield (Nor.)
+Tower Shield
+Normal Base Item
+Defense: 22-25
+Durability: 60
+Req Strength: 75
+Quality level: 22
+Treasure class: 24
+Max sockets: 3
+Weight: Heavy
+Base block: 24
+Class block: Pal: 54%
+Ama/Asn/Bar: 49%
+Dru/Nec/Sor: 44%
+Paladin smite dmg: 1-5
+
+Variants:
+ Aegis (Eli.)
+ Pavise (Exc.)
+Ancient Shield
+Exceptional Base Item
+Defense: 80-93
+Durability: 80
+Req Strength: 110
+Req level: 25
+Quality level: 56
+Treasure class: 57
+Max sockets: 3
+Weight: Medium
+Base block: 16
+Class block: Pal: 46%
+Ama/Asn/Bar: 41%
+Dru/Nec/Sor: 36%
+Paladin smite dmg: 12-16
+
+Variants:
+ Gothic Shield (Nor.)
+ Ward (Eli.)
+Gothic Shield
+Normal Base Item
+Defense: 30-35
+Durability: 40
+Req Strength: 60
+Quality level: 30
+Treasure class: 30
+Max sockets: 3
+Weight: Medium
+Base block: 16
+Class block: Pal: 46%
+Ama/Asn/Bar: 41%
+Dru/Nec/Sor: 36%
+Paladin smite dmg: 2-6
+
+Variants:
+ Ancient Shield (Exc.)
+ Ward (Eli.)
+Large Shield
+Normal Base Item
+Defense: 12-14
+Durability: 24
+Req Strength: 34
+Quality level: 11
+Treasure class: 12
+Max sockets: 3
+Weight: Medium
+Base block: 12
+Class block: Pal: 42%
+Ama/Asn/Bar: 37%
+Dru/Nec/Sor: 32%
+Paladin smite dmg: 2-4
+
+Variants:
+ Hyperion (Eli.)
+ Scutum (Exc.)
+Blade Barrier
+Elite Base Item
+Defense: 147-163
+Durability: 83
+Req Strength: 118
+Req level: 51
+Quality level: 68
+Treasure class: 69
+Max sockets: 3
+Weight: Light
+Base block: 20
+Class block: Pal: 50%
+Ama/Asn/Bar: 45%
+Dru/Nec/Sor: 40%
+Paladin smite dmg: 26-40
+
+Variants:
+ Barbed Shield (Exc.)
+ Spiked Shield (Nor.)
+Barbed Shield
+Exceptional Base Item
+Defense: 58-78
+Durability: 55
+Req Strength: 65
+Req level: 25
+Quality level: 42
+Treasure class: 42
+Max sockets: 2
+Weight: Light
+Base block: 17
+Class block: Pal: 47%
+Ama/Asn/Bar: 42%
+Dru/Nec/Sor: 37%
+Paladin smite dmg: 18-35
+
+Variants:
+ Blade Barrier (Eli.)
+ Spiked Shield (Nor.)
+Spiked Shield
+Normal Base Item
+Defense: 15-25
+Durability: 40
+Req Strength: 30
+Quality level: 11
+Treasure class: 12
+Max sockets: 2
+Weight: Light
+Base block: 10
+Class block: Pal: 40%
+Ama/Asn/Bar: 35%
+Dru/Nec/Sor: 30%
+Paladin smite dmg: 5-9
+
+Variants:
+ Barbed Shield (Exc.)
+ Blade Barrier (Eli.)
+Troll Nest
+Elite Base Item
+Defense: 158-173
+Durability: 74
+Req Strength: 106
+Req level: 57
+Quality level: 76
+Treasure class: 78
+Max sockets: 3
+Weight: Light
+Base block: 20
+Class block: Pal: 50%
+Ama/Asn/Bar: 45%
+Dru/Nec/Sor: 40%
+Paladin smite dmg: 24-38
+
+Variants:
+ Bone Shield (Nor.)
+ Grim Shield (Exc.)
+Grim Shield
+Exceptional Base Item
+Defense: 50-150
+Durability: 70
+Req Strength: 58
+Req level: 25
+Quality level: 48
+Treasure class: 48
+Max sockets: 2
+Weight: Light
+Base block: 20
+Class block: Pal: 50%
+Ama/Asn/Bar: 45%
+Dru/Nec/Sor: 40%
+Paladin smite dmg: 14-20
+
+Variants:
+ Bone Shield (Nor.)
+ Troll Nest (Eli.)
+Dragon Shield
+Exceptional Base Item
+Defense: 59-67
+Durability: 76
+Req Strength: 91
+Req level: 25
+Quality level: 45
+Treasure class: 45
+Max sockets: 3
+Weight: Light
+Base block: 18
+Class block: Pal: 48%
+Ama/Asn/Bar: 43%
+Dru/Nec/Sor: 38%
+Paladin smite dmg: 15-24
+
+Variants:
+ Kite Shield (Nor.)
+ Monarch (Eli.)
+Kite Shield
+Normal Base Item
+Defense: 16-18
+Durability: 30
+Req Strength: 47
+Quality level: 15
+Treasure class: 15
+Max sockets: 3
+Weight: Light
+Base block: 8
+Class block: Pal: 38%
+Ama/Asn/Bar: 33%
+Dru/Nec/Sor: 28%
+Paladin smite dmg: 2-5
+
+Variants:
+ Dragon Shield (Exc.)
+ Monarch (Eli.)
+Luna
+Elite Base Item
+Defense: 108-123
+Durability: 84
+Req Strength: 100
+Req level: 45
+Quality level: 61
+Treasure class: 63
+Max sockets: 2
+Weight: Light
+Base block: 20
+Class block: Pal: 50%
+Ama/Asn/Bar: 45%
+Dru/Nec/Sor: 40%
+Paladin smite dmg: 17-29
+
+Variants:
+ Round Shield (Exc.)
+ Small Shield (Nor.)
+Round Shield
+Exceptional Base Item
+Defense: 47-55
+Durability: 64
+Req Strength: 53
+Req level: 25
+Quality level: 37
+Treasure class: 39
+Max sockets: 2
+Weight: Light
+Base block: 12
+Class block: Pal: 42%
+Ama/Asn/Bar: 37%
+Dru/Nec/Sor: 32%
+Paladin smite dmg: 7-14
+
+Variants:
+ Luna (Eli.)
+ Small Shield (Nor.)
+Small Shield
+Normal Base Item
+Defense: 8-10
+Durability: 16
+Req Strength: 22
+Quality level: 5
+Treasure class: 6
+Max sockets: 2
+Weight: Light
+Base block: 5
+Class block: Pal: 35%
+Ama/Asn/Bar: 30%
+Dru/Nec/Sor: 25%
+Paladin smite dmg: 2-3
+
+Variants:
+ Luna (Eli.)
+ Round Shield (Exc.)
+Heater
+Elite Base Item
+Defense: 95-110
+Durability: 88
+Req Strength: 77
+Req level: 43
+Quality level: 58
+Treasure class: 60
+Max sockets: 2
+Weight: Light
+Base block: 22
+Class block: Pal: 52%
+Ama/Asn/Bar: 47%
+Dru/Nec/Sor: 42%
+Paladin smite dmg: 16-30
+
+Variants:
+ Buckler (Nor.)
+ Defender (Exc.)
+Defender
+Exceptional Base Item
+Defense: 41-49
+Durability: 68
+Req Strength: 38
+Req level: 22
+Quality level: 34
+Treasure class: 36
+Max sockets: 1
+Weight: Light
+Base block: 10
+Class block: Pal: 40%
+Ama/Asn/Bar: 35%
+Dru/Nec/Sor: 30%
+Paladin smite dmg: 8-12
+
+Variants:
+ Buckler (Nor.)
+ Heater (Eli.)
+Shadow Plate
+Elite Base Item
+Defense: 446-557
+Durability: 70
+Req Strength: 230
+Req level: 64
+Quality level: 83
+Treasure class: 84
+Max sockets: 4
+Weight: Heavy
+
+Variants:
+ Chaos Armor (Exc.)
+ Full Plate Mail (Nor.)
+Hellforge Plate
+Elite Base Item
+Defense: 421-530
+Durability: 60
+Req Strength: 196
+Req level: 59
+Quality level: 78
+Treasure class: 78
+Max sockets: 4
+Weight: Heavy
+
+Variants:
+ Plate Mail (Nor.)
+ Templar Coat (Exc.)
+Templar Coat
+Exceptional Base Item
+Defense: 252-274
+Durability: 60
+Req Strength: 118
+Req level: 25
+Quality level: 52
+Treasure class: 54
+Max sockets: 3
+Weight: Heavy
+
+Variants:
+ Hellforge Plate (Eli.)
+ Plate Mail (Nor.)
+Plate Mail
+Normal Base Item
+Defense: 108-116
+Durability: 60
+Req Strength: 65
+Quality level: 24
+Treasure class: 24
+Max sockets: 2
+Weight: Heavy
+
+Variants:
+ Hellforge Plate (Eli.)
+ Templar Coat (Exc.)
+Loricated Mail
+Elite Base Item
+Defense: 390-496
+Durability: 36
+Req Strength: 149
+Req level: 55
+Quality level: 73
+Treasure class: 75
+Max sockets: 4
+Weight: Heavy
+
+Variants:
+ Scale Mail (Nor.)
+ Tigulated Mail (Exc.)
+Tigulated Mail
+Exceptional Base Item
+Defense: 176-190
+Durability: 36
+Req Strength: 86
+Req level: 25
+Quality level: 43
+Treasure class: 45
+Max sockets: 3
+Weight: Heavy
+
+Variants:
+ Loricated Mail (Eli.)
+ Scale Mail (Nor.)
+Scale Mail
+Normal Base Item
+Defense: 57-60
+Durability: 36
+Req Strength: 44
+Quality level: 13
+Treasure class: 15
+Max sockets: 2
+Weight: Heavy
+
+Variants:
+ Loricated Mail (Eli.)
+ Tigulated Mail (Exc.)
+Lacquered Plate
+Elite Base Item
+Defense: 433-541
+Durability: 55
+Req Strength: 208
+Req level: 62
+Quality level: 82
+Treasure class: 84
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Embossed Plate (Exc.)
+ Gothic Plate (Nor.)
+Embossed Plate
+Exceptional Base Item
+Defense: 282-303
+Durability: 55
+Req Strength: 125
+Req level: 25
+Quality level: 58
+Treasure class: 60
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Gothic Plate (Nor.)
+ Lacquered Plate (Eli.)
+Gothic Plate
+Normal Base Item
+Defense: 128-135
+Durability: 55
+Req Strength: 70
+Quality level: 32
+Treasure class: 33
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Embossed Plate (Exc.)
+ Lacquered Plate (Eli.)
+Sharktooth Armor
+Exceptional Base Item
+Defense: 242-258
+Durability: 48
+Req Strength: 103
+Req level: 25
+Quality level: 55
+Treasure class: 57
+Max sockets: 3
+Weight: Medium
+
+Variants:
+ Field Plate (Nor.)
+ Kraken Shell (Eli.)
+Field Plate
+Normal Base Item
+Defense: 101-105
+Durability: 48
+Req Strength: 55
+Quality level: 28
+Treasure class: 30
+Max sockets: 2
+Weight: Medium
+
+Variants:
+ Kraken Shell (Eli.)
+ Sharktooth Armor (Exc.)
+Balrog Skin
+Elite Base Item
+Defense: 410-517
+Durability: 30
+Req Strength: 165
+Req level: 57
+Quality level: 76
+Treasure class: 78
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Russet Armor (Exc.)
+ Splint Mail (Nor.)
+Russet Armor
+Exceptional Base Item
+Defense: 225-243
+Durability: 30
+Req Strength: 97
+Req level: 25
+Quality level: 49
+Treasure class: 51
+Max sockets: 3
+Weight: Medium
+
+Variants:
+ Balrog Skin (Eli.)
+ Splint Mail (Nor.)
+Splint Mail
+Normal Base Item
+Defense: 90-95
+Durability: 30
+Req Strength: 51
+Quality level: 20
+Treasure class: 21
+Max sockets: 2
+Weight: Medium
+
+Variants:
+ Balrog Skin (Eli.)
+ Russet Armor (Exc.)
+Boneweave
+Elite Base Item
+Defense: 399-505
+Durability: 45
+Req Strength: 158
+Req level: 47
+Quality level: 62
+Treasure class: 63
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Chain Mail (Nor.)
+ Mesh Armor (Exc.)
+Mesh Armor
+Exceptional Base Item
+Defense: 198-213
+Durability: 45
+Req Strength: 92
+Req level: 25
+Quality level: 45
+Treasure class: 45
+Max sockets: 3
+Weight: Medium
+
+Variants:
+ Boneweave (Eli.)
+ Chain Mail (Nor.)
+Chain Mail
+Normal Base Item
+Defense: 72-75
+Durability: 45
+Req Strength: 48
+Quality level: 15
+Treasure class: 15
+Max sockets: 2
+Weight: Medium
+
+Variants:
+ Boneweave (Eli.)
+ Mesh Armor (Exc.)
+Diamond Mail
+Elite Base Item
+Defense: 383-489
+Durability: 26
+Req Strength: 131
+Req level: 54
+Quality level: 72
+Treasure class: 72
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Linked Mail (Exc.)
+ Ring Mail (Nor.)
+Linked Mail
+Exceptional Base Item
+Defense: 158-172
+Durability: 26
+Req Strength: 74
+Req level: 25
+Quality level: 42
+Treasure class: 42
+Max sockets: 3
+Weight: Medium
+
+Variants:
+ Diamond Mail (Eli.)
+ Ring Mail (Nor.)
+Ring Mail
+Normal Base Item
+Defense: 45-48
+Durability: 26
+Req Strength: 36
+Quality level: 11
+Treasure class: 12
+Max sockets: 3
+Weight: Medium
+
+Variants:
+ Diamond Mail (Eli.)
+ Linked Mail (Exc.)
+Light Plate
+Normal Base Item
+Defense: 90-107
+Durability: 60
+Req Strength: 41
+Quality level: 35
+Treasure class: 36
+Max sockets: 3
+Weight: Light
+
+Variants:
+ Archon Plate (Eli.)
+ Mage Plate (Exc.)
+Breast Plate
+Normal Base Item
+Defense: 65-68
+Durability: 50
+Req Strength: 30
+Quality level: 18
+Treasure class: 18
+Max sockets: 3
+Weight: Light
+
+Variants:
+ Cuirass (Exc.)
+ Great Hauberk (Eli.)
+Trellised Armor
+Exceptional Base Item
+Defense: 138-153
+Durability: 32
+Req Strength: 61
+Req level: 25
+Quality level: 40
+Treasure class: 42
+Max sockets: 2
+Weight: Light
+
+Variants:
+ Studded Leather (Nor.)
+ Wire Fleece (Eli.)
+Studded Leather
+Normal Base Item
+Defense: 32-35
+Durability: 32
+Req Strength: 27
+Quality level: 8
+Treasure class: 9
+Max sockets: 2
+Weight: Light
+
+Variants:
+ Trellised Armor (Exc.)
+ Wire Fleece (Eli.)
+Scarab Husk
+Elite Base Item
+Defense: 369-474
+Durability: 28
+Req Strength: 95
+Req level: 51
+Quality level: 68
+Treasure class: 69
+Max sockets: 4
+Weight: Light
+
+Variants:
+ Demonhide Armor (Exc.)
+ Hard Leather Armor (Nor.)
+Demonhide Armor
+Exceptional Base Item
+Defense: 122-136
+Durability: 28
+Req Strength: 50
+Req level: 25
+Quality level: 37
+Treasure class: 39
+Max sockets: 2
+Weight: Light
+
+Variants:
+ Hard Leather Armor (Nor.)
+ Scarab Husk (Eli.)
+Hard Leather Armor
+Normal Base Item
+Defense: 21-24
+Durability: 28
+Req Strength: 20
+Quality level: 5
+Treasure class: 6
+Max sockets: 2
+Weight: Light
+
+Variants:
+ Demonhide Armor (Exc.)
+ Scarab Husk (Eli.)
+Wyrmhide
+Elite Base Item
+Defense: 364-470
+Durability: 24
+Req Strength: 84
+Req level: 50
+Quality level: 67
+Treasure class: 60
+Max sockets: 4
+Weight: Light
+
+Variants:
+ Leather Armor (Nor.)
+ Serpentskin Armor (Exc.)
+Serpentskin Armor
+Exceptional Base Item
+Defense: 111-126
+Durability: 24
+Req Strength: 43
+Req level: 24
+Quality level: 36
+Treasure class: 36
+Max sockets: 2
+Weight: Light
+
+Variants:
+ Leather Armor (Nor.)
+ Wyrmhide (Eli.)
+Ghost Armor
+Exceptional Base Item
+Defense: 102-117
+Durability: 20
+Req Strength: 38
+Req level: 22
+Quality level: 34
+Treasure class: 36
+Max sockets: 2
+Weight: Light
+
+Variants:
+ Dusk Shroud (Eli.)
+ Quilted Armor (Nor.)
+Quilted Armor
+Normal Base Item
+Defense: 8-11
+Durability: 20
+Req Strength: 12
+Quality level: 1
+Treasure class: 3
+Max sockets: 2
+Weight: Light
+
+Variants:
+ Dusk Shroud (Eli.)
+ Ghost Armor (Exc.)
+Hunter's Bow
+Normal Base Item
+2H damage: 2-6
+Base speed: -10
+Class speed: Ama, B, D - Very Fast
+Asn, N, P, S - Fast
+Req Dexterity: 28
+Quality level: 5
+Treasure class: 6
+Max sockets: 4
+
+Variants:
+ Blade Bow (Eli.)
+ Razor Bow (Exc.)
+Mask
+Normal Base Item
+Defense: 9-27
+Durability: 20
+Req Strength: 23
+Quality level: 19
+Treasure class: 21
+Max sockets: 3
+
+Variants:
+ Death Mask (Exc.)
+ Demonhead (Eli.)
+War Belt
+Exceptional Base Item
+Defense: 41-52
+Durability: 24
+Req Strength: 110
+Req level: 25
+Quality level: 54
+Treasure class: 54
+Belt boxes: 16
+
+Variants:
+ Colossus Girdle (Eli.)
+ Plated Belt (Nor.)
+Ornate Plate
+Exceptional Base Item
+Defense: 417-450
+Durability: 60
+Req Strength: 170
+Req level: 25
+Quality level: 64
+Treasure class: 66
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Ancient Armor (Nor.)
+ Sacred Armor (Eli.)
+Ancient Armor
+Normal Base Item
+Defense: 218-233
+Durability: 60
+Req Strength: 100
+Quality level: 40
+Treasure class: 42
+Max sockets: 4
+Weight: Medium
+
+Variants:
+ Ornate Plate (Exc.)
+ Sacred Armor (Eli.)
+ Latest discussion
+

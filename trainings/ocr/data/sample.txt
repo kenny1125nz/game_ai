@@ -1,0 +1,45 @@
+Demonhead
+Elite Base Item
+Defense: 101-154
+Durability: 20
+Req Strength: 102
+Req level: 55
+Quality level: 74
+Treasure class: 75
+Max sockets: 3
+
+Variants:
+ Death Mask (Exc.)
+ Mask (Nor.)
+Thresher
+Elite Base Item
+2H damage: 12-141
+Base speed: -10
+Class speed: D - Very Fast
+N, P, S - Fast
+Ama, Asn, B - Normal
+Adds range: 1
+Durability: 65
+Req Strength: 152
+Req Dexterity: 118
+Req level: 53
+Quality level: 71
+Treasure class: 72
+Max sockets: 5
+
+Variants:
+ Battle Scythe (Exc.)
+ Scythe (Nor.)
+Full Plate Mail
+Normal Base Item
+Defense: 150-161
+Durability: 70
+Req Strength: 80
+Quality level: 37
+Treasure class: 39
+Max sockets: 4
+Weight: Heavy
+
+Variants:
+ Chaos Armor (Exc.)
+ Shadow Plate (Eli.)

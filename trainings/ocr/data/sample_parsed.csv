@@ -1,0 +1,4 @@
+item_name,item_class,2h_damage,adds_range,base_speed,class_speed,defense,durability,max_sockets,quality_level,req_dexterity,req_level,req_strength,treasure_class,weight,notes,variants
+Demonhead,Elite Base Item,,,,,101-154,20,3,74,,55,102,75,,,
+Thresher,Elite Base Item,12-141,1,-10,D - Very Fast,,65,5,71,118,53,152,72,,"N, P, S - Fast; Ama, Asn, B - Normal",
+Full Plate Mail,Normal Base Item,,,,,150-161,70,4,37,,,80,39,Heavy,,
